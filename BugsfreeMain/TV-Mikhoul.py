@@ -1807,16 +1807,16 @@ def main():
     ]
     
     source_urls = [
-        "https://github.com/Sphinxroot/QC-TV/raw/16afc34391cf7a1dbc0b6a8273476a7d3f9ca33b/Quebec.m3u",
+        "http://premium-play.org:8000/saidclt201/XmQat4ju/2826",
         #"https://github.com/ipstreet312/freeiptv/raw/refs/heads/master/ressources/allgr.m3u",
         # Bonne Liste FR Melé "https://raw.githubusercontent.com/absol12/reptv/refs/heads/main/01.m3u",
         "https://rawcdn.githack.com/schumijo/iptv/d3c690aadfc94c4c4fc780bcbce05faa12971f0d/fr.m3u8",
-        "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "http://premium-play.org:8000/saidclt201/XmQat4ju/2831",
         # "https://tinyurl.com/Stream2IPTV?region=fr&service=PlutoTV",
         "https://rawcdn.githack.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_fr.m3u",
         "https://tinyurl.com/Stream2IPTV?region=fr&service=SamsungTVPlus",
-        "https://tinyurl.com/Stream2IPTV?region=fr&service=Plex",
-        "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_rakuten.m3u",
+        "http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/7344",
+        "http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/7342",
         "https://list.iptvcat.com/my_list/33b417553a834a782ea5d4d15abbef92.m3u8",
     ]
     
