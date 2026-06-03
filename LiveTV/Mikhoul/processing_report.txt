@@ -1,56 +1,70 @@
 M3U Collector Processing Report
 Country: Mikhoul
-Generated: 2026-06-02 22:14:51
+Generated: 2026-06-03 22:19:08
 ============================================================
 
 PROCESSING STATISTICS
 -------------------------
-Total Lines Processed: 1357
-Total Channels Found: 660
+Total Lines Processed: 1375
+Total Channels Found: 669
 Parsing Errors: 0
-Urls Validated: 459
-Active Urls: 250
+Urls Validated: 471
+Active Urls: 351
 Geo Blocked Urls: 27
-Validation Time: 99.0340940952301
-Inactive By Error: {'invalid_content': 15, 'http_404': 170, 'http_504': 1, 'inactive': 21, 'http_400': 2}
-Total Processing Time: 187.32504081726074
-Final Channel Count: 250
+Validation Time: 99.87523007392883
+Inactive By Error: {'invalid_content': 15, 'http_404': 82, 'inactive': 21, 'http_400': 2}
+Total Processing Time: 189.1641185283661
+Final Channel Count: 351
 Source Urls Processed: 8
 Total Skipped Urls: 0
 
 CHANNEL DISTRIBUTION
 --------------------
-Cinéma: 38 channels
-Divertissement: 20 channels
+Cinéma: 51 channels
+Divertissement: 27 channels
 FRANCE: 20 channels
 Séries TV: 19 channels
 Sport Multiplex: 18 channels
 Musique: 16 channels
 TNT: 15 channels
-Documentaires: 13 channels
+Documentaires: 12 channels
+À Binge-Watch: 12 channels
 Jeunesse: 11 channels
+Kids: 11 channels
 Régionale: 10 channels
 Séries et Divertissements: 9 channels
+100% Français: 9 channels
 Sports: 8 channels
 Actualités: 8 channels
 Crime: 8 channels
+Animation: 8 channels
+Crime & Mystère: 8 channels
 Informations Françaises: 7 channels
 Style de vie/Pratique: 6 channels
 Voyages et Gastronomie: 6 channels
+Séries Policières: 6 channels
+TV Réalité: 6 channels
 Sport Thématique: 5 channels
+Sports & Auto: 5 channels
+Documentaire: 5 channels
 Anime: 4 channels
+Nouveau sur Pluto TV: 4 channels
 Locale: 3 channels
 Télé réalité: 3 channels
+Comédie: 3 channels
 Découverte: 2 channels
+Emissions cultes: 2 channels
+News: 2 channels
+Sport: 1 channels
 Etrangère: 1 channels
 
 FAILED URLS
 -----------
 URL: http://premium-play.org:8000/saidclt201/XmQat4ju/2826
-Error: HTTPConnectionPool(host='premium-play.org', port=8000): Max retries exceeded with url: /saidclt201/XmQat4ju/2826 (Caused by ConnectTimeoutError(<HTTPConnection(host='premium-play.org', port=8000) at 0x7f6dfdf7b590>, 'Connection to premium-play.org timed out. (connect timeout=12)'))
+Error: HTTPConnectionPool(host='premium-play.org', port=8000): Max retries exceeded with url: /saidclt201/XmQat4ju/2826 (Caused by ConnectTimeoutError(<HTTPConnection(host='premium-play.org', port=8000) at 0x7fa183387890>, 'Connection to premium-play.org timed out. (connect timeout=12)'))
 
 URL: http://premium-play.org:8000/saidclt201/XmQat4ju/2831
-Error: HTTPConnectionPool(host='premium-play.org', port=8000): Max retries exceeded with url: /saidclt201/XmQat4ju/2831 (Caused by ConnectTimeoutError(<HTTPConnection(host='premium-play.org', port=8000) at 0x7f6dfdfa3a90>, 'Connection to premium-play.org timed out. (connect timeout=12)'))
+Error: HTTPConnectionPool(host='premium-play.org', port=8000): Max retries exceeded with url: /saidclt201/XmQat4ju/2831 (Caused by ConnectTimeoutError(<HTTPConnection(host='premium-play.org', port=8000) at 0x7fa1831c6210>, 'Connection to premium-play.org timed out. (connect timeout=12)'))
 
 URL: http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/7344
 Error: HTTPConnectionPool(host='link.softiptv.com', port=2500): Max retries exceeded with url: /0iP7tOoIA0/0UAuo8Rw88/7344 (Caused by NameResolutionError("HTTPConnection(host='link.softiptv.com', port=2500): Failed to resolve 'link.softiptv.com' ([Errno -2] Name or service not known)"))
@@ -61,8 +75,7 @@ Error: HTTPConnectionPool(host='link.softiptv.com', port=2500): Max retries exce
 VALIDATION FAILURE BREAKDOWN
 ----------------------------
 HTTP 400 Errors: 2 channels
-HTTP 404 Errors: 170 channels
-HTTP 504 Errors: 1 channels
+HTTP 404 Errors: 82 channels
 Inactive: 21 channels
 Invalid Content: 15 channels
 
