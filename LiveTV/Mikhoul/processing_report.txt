@@ -1,6 +1,6 @@
 M3U Collector Processing Report
 Country: Mikhoul
-Generated: 2026-06-06 20:48:11
+Generated: 2026-06-07 20:54:19
 ============================================================
 
 PROCESSING STATISTICS
@@ -10,10 +10,10 @@ Total Channels Found: 670
 Parsing Errors: 0
 Urls Validated: 472
 Active Urls: 351
-Geo Blocked Urls: 142
-Validation Time: 100.62172865867615
+Geo Blocked Urls: 27
+Validation Time: 99.04724073410034
 Inactive By Error: {'invalid_content': 15, 'http_404': 82, 'inactive': 21, 'http_400': 2, 'http_500': 1}
-Total Processing Time: 189.3849172592163
+Total Processing Time: 188.4506778717041
 Final Channel Count: 351
 Source Urls Processed: 8
 Total Skipped Urls: 0
@@ -61,10 +61,10 @@ Etrangère: 1 channels
 FAILED URLS
 -----------
 URL: http://premium-play.org:8000/saidclt201/XmQat4ju/2826
-Error: HTTPConnectionPool(host='premium-play.org', port=8000): Max retries exceeded with url: /saidclt201/XmQat4ju/2826 (Caused by ConnectTimeoutError(<HTTPConnection(host='premium-play.org', port=8000) at 0x7fa6ea44b250>, 'Connection to premium-play.org timed out. (connect timeout=12)'))
+Error: HTTPConnectionPool(host='premium-play.org', port=8000): Max retries exceeded with url: /saidclt201/XmQat4ju/2826 (Caused by ConnectTimeoutError(<HTTPConnection(host='premium-play.org', port=8000) at 0x7f83572dac90>, 'Connection to premium-play.org timed out. (connect timeout=12)'))
 
 URL: http://premium-play.org:8000/saidclt201/XmQat4ju/2831
-Error: HTTPConnectionPool(host='premium-play.org', port=8000): Max retries exceeded with url: /saidclt201/XmQat4ju/2831 (Caused by ConnectTimeoutError(<HTTPConnection(host='premium-play.org', port=8000) at 0x7fa6ea473d50>, 'Connection to premium-play.org timed out. (connect timeout=12)'))
+Error: HTTPConnectionPool(host='premium-play.org', port=8000): Max retries exceeded with url: /saidclt201/XmQat4ju/2831 (Caused by ConnectTimeoutError(<HTTPConnection(host='premium-play.org', port=8000) at 0x7f83571892d0>, 'Connection to premium-play.org timed out. (connect timeout=12)'))
 
 URL: http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/7344
 Error: HTTPConnectionPool(host='link.softiptv.com', port=2500): Max retries exceeded with url: /0iP7tOoIA0/0UAuo8Rw88/7344 (Caused by NameResolutionError("HTTPConnection(host='link.softiptv.com', port=2500): Failed to resolve 'link.softiptv.com' ([Errno -2] Name or service not known)"))
