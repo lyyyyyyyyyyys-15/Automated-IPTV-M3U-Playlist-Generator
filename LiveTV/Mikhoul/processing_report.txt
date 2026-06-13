@@ -1,20 +1,20 @@
 M3U Collector Processing Report
 Country: Mikhoul
-Generated: 2026-06-12 21:23:10
+Generated: 2026-06-13 20:55:08
 ============================================================
 
 PROCESSING STATISTICS
 -------------------------
-Total Lines Processed: 1379
-Total Channels Found: 671
+Total Lines Processed: 1381
+Total Channels Found: 672
 Parsing Errors: 0
-Urls Validated: 473
-Active Urls: 352
+Urls Validated: 474
+Active Urls: 353
 Geo Blocked Urls: 27
-Validation Time: 99.89307379722595
+Validation Time: 100.2715630531311
 Inactive By Error: {'invalid_content': 15, 'http_404': 82, 'inactive': 21, 'http_400': 2, 'http_500': 1}
-Total Processing Time: 188.38423657417297
-Final Channel Count: 352
+Total Processing Time: 188.8720154762268
+Final Channel Count: 353
 Source Urls Processed: 8
 Total Skipped Urls: 0
 
@@ -41,10 +41,10 @@ Animation: 8 channels
 Crime & Mystère: 8 channels
 Informations Françaises: 7 channels
 Séries Policières: 7 channels
+Style de vie/Pratique: 6 channels
 Voyages et Gastronomie: 6 channels
 TV Réalité: 6 channels
 Sport Thématique: 5 channels
-Style de vie/Pratique: 5 channels
 Sports & Auto: 5 channels
 Documentaire: 5 channels
 Nouveau sur Pluto TV: 5 channels
@@ -61,10 +61,10 @@ Etrangère: 1 channels
 FAILED URLS
 -----------
 URL: http://premium-play.org:8000/saidclt201/XmQat4ju/2826
-Error: HTTPConnectionPool(host='premium-play.org', port=8000): Max retries exceeded with url: /saidclt201/XmQat4ju/2826 (Caused by ConnectTimeoutError(<HTTPConnection(host='premium-play.org', port=8000) at 0x7fb68ddc6910>, 'Connection to premium-play.org timed out. (connect timeout=12)'))
+Error: HTTPConnectionPool(host='premium-play.org', port=8000): Max retries exceeded with url: /saidclt201/XmQat4ju/2826 (Caused by ConnectTimeoutError(<HTTPConnection(host='premium-play.org', port=8000) at 0x7f4323baa290>, 'Connection to premium-play.org timed out. (connect timeout=12)'))
 
 URL: http://premium-play.org:8000/saidclt201/XmQat4ju/2831
-Error: HTTPConnectionPool(host='premium-play.org', port=8000): Max retries exceeded with url: /saidclt201/XmQat4ju/2831 (Caused by ConnectTimeoutError(<HTTPConnection(host='premium-play.org', port=8000) at 0x7fb68dc70f10>, 'Connection to premium-play.org timed out. (connect timeout=12)'))
+Error: HTTPConnectionPool(host='premium-play.org', port=8000): Max retries exceeded with url: /saidclt201/XmQat4ju/2831 (Caused by ConnectTimeoutError(<HTTPConnection(host='premium-play.org', port=8000) at 0x7f4323a5c910>, 'Connection to premium-play.org timed out. (connect timeout=12)'))
 
 URL: http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/7344
 Error: HTTPConnectionPool(host='link.softiptv.com', port=2500): Max retries exceeded with url: /0iP7tOoIA0/0UAuo8Rw88/7344 (Caused by NameResolutionError("HTTPConnection(host='link.softiptv.com', port=2500): Failed to resolve 'link.softiptv.com' ([Errno -2] Name or service not known)"))
