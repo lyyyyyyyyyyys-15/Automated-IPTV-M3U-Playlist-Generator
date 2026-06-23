@@ -1,20 +1,20 @@
 M3U Collector Processing Report
 Country: Mikhoul
-Generated: 2026-06-22 21:56:20
+Generated: 2026-06-23 21:27:47
 ============================================================
 
 PROCESSING STATISTICS
 -------------------------
-Total Lines Processed: 1383
-Total Channels Found: 673
+Total Lines Processed: 1385
+Total Channels Found: 674
 Parsing Errors: 0
-Urls Validated: 477
-Active Urls: 352
+Urls Validated: 478
+Active Urls: 351
 Geo Blocked Urls: 27
-Validation Time: 99.6422700881958
-Inactive By Error: {'invalid_content': 15, 'http_404': 85, 'inactive': 21, 'http_400': 3, 'http_500': 1}
-Total Processing Time: 476.5483272075653
-Final Channel Count: 352
+Validation Time: 99.17368054389954
+Inactive By Error: {'invalid_content': 15, 'http_404': 86, 'inactive': 21, 'http_400': 3, 'http_500': 2}
+Total Processing Time: 492.5419042110443
+Final Channel Count: 351
 Source Urls Processed: 8
 Total Skipped Urls: 0
 
@@ -30,9 +30,9 @@ TNT: 14 channels
 Documentaires: 12 channels
 À Binge-Watch: 12 channels
 Jeunesse: 11 channels
-Kids: 11 channels
 Régionale: 10 channels
 Séries et Divertissements: 9 channels
+Kids: 9 channels
 Sports: 8 channels
 Actualités: 8 channels
 Crime: 8 channels
@@ -44,8 +44,8 @@ Séries Policières: 7 channels
 Style de vie/Pratique: 6 channels
 Voyages et Gastronomie: 6 channels
 TV Réalité: 6 channels
+Sports & Auto: 6 channels
 Nouveau sur Pluto TV: 6 channels
-Sports & Auto: 5 channels
 Documentaire: 5 channels
 Sport Thématique: 4 channels
 Anime: 4 channels
@@ -53,18 +53,18 @@ Locale: 3 channels
 Télé réalité: 3 channels
 Comédie: 3 channels
 Découverte: 2 channels
-Emissions cultes: 2 channels
 News: 2 channels
+Emissions cultes: 2 channels
 Sport: 1 channels
 Etrangère: 1 channels
 
 FAILED URLS
 -----------
 URL: http://premium-play.org:8000/saidclt201/XmQat4ju/2826
-Error: HTTPConnectionPool(host='premium-play.org', port=8000): Max retries exceeded with url: /saidclt201/XmQat4ju/2826 (Caused by ConnectTimeoutError(<HTTPConnection(host='premium-play.org', port=8000) at 0x7fe4411fe610>, 'Connection to premium-play.org timed out. (connect timeout=12)'))
+Error: HTTPConnectionPool(host='premium-play.org', port=8000): Max retries exceeded with url: /saidclt201/XmQat4ju/2826 (Caused by ConnectTimeoutError(<HTTPConnection(host='premium-play.org', port=8000) at 0x7f741a492550>, 'Connection to premium-play.org timed out. (connect timeout=12)'))
 
 URL: http://premium-play.org:8000/saidclt201/XmQat4ju/2831
-Error: HTTPConnectionPool(host='premium-play.org', port=8000): Max retries exceeded with url: /saidclt201/XmQat4ju/2831 (Caused by ConnectTimeoutError(<HTTPConnection(host='premium-play.org', port=8000) at 0x7fe4410acc10>, 'Connection to premium-play.org timed out. (connect timeout=12)'))
+Error: HTTPConnectionPool(host='premium-play.org', port=8000): Max retries exceeded with url: /saidclt201/XmQat4ju/2831 (Caused by ConnectTimeoutError(<HTTPConnection(host='premium-play.org', port=8000) at 0x7f741a340bd0>, 'Connection to premium-play.org timed out. (connect timeout=12)'))
 
 URL: http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/7344
 Error: HTTPConnectionPool(host='link.softiptv.com', port=2500): Max retries exceeded with url: /0iP7tOoIA0/0UAuo8Rw88/7344 (Caused by NewConnectionError("HTTPConnection(host='link.softiptv.com', port=2500): Failed to establish a new connection: [Errno 101] Network is unreachable"))
@@ -75,8 +75,8 @@ Error: HTTPConnectionPool(host='link.softiptv.com', port=2500): Max retries exce
 VALIDATION FAILURE BREAKDOWN
 ----------------------------
 HTTP 400 Errors: 3 channels
-HTTP 404 Errors: 85 channels
-HTTP 500 Errors: 1 channels
+HTTP 404 Errors: 86 channels
+HTTP 500 Errors: 2 channels
 Inactive: 21 channels
 Invalid Content: 15 channels
 
