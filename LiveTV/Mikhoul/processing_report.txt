@@ -1,20 +1,20 @@
 M3U Collector Processing Report
 Country: Mikhoul
-Generated: 2026-09-02 22:07:07
+Generated: 2026-09-03 22:00:58
 ============================================================
 
 PROCESSING STATISTICS
 -------------------------
-Total Lines Processed: 1032
-Total Channels Found: 498
+Total Lines Processed: 1395
+Total Channels Found: 679
 Parsing Errors: 0
-Urls Validated: 449
-Active Urls: 349
+Urls Validated: 484
+Active Urls: 344
 Geo Blocked Urls: 26
-Validation Time: 99.2692437171936
-Inactive By Error: {'invalid_content': 15, 'http_404': 56, 'inactive': 24, 'http_400': 3, 'http_504': 1, 'http_500': 1}
-Total Processing Time: 517.6829371452332
-Final Channel Count: 349
+Validation Time: 100.14152956008911
+Inactive By Error: {'invalid_content': 15, 'http_404': 96, 'inactive': 24, 'http_400': 3, 'http_504': 1, 'http_500': 1}
+Total Processing Time: 476.57061409950256
+Final Channel Count: 344
 Source Urls Processed: 8
 Total Skipped Urls: 0
 
@@ -28,17 +28,17 @@ FRANCE: 18 channels
 TNT: 15 channels
 Musique: 15 channels
 Documentaires: 12 channels
-100% Français: 12 channels
 À Binge-Watch: 11 channels
-Kids: 11 channels
+100% Français: 11 channels
 Jeunesse: 10 channels
 Régionale: 10 channels
-Animation: 10 channels
+Kids: 10 channels
 Séries et Divertissements: 9 channels
-Séries Policières: 9 channels
+Animation: 9 channels
 Sports: 8 channels
 Actualités: 8 channels
 Crime: 8 channels
+Séries Policières: 8 channels
 Crime & Mystère: 8 channels
 Informations Françaises: 7 channels
 Voyages et Gastronomie: 6 channels
@@ -46,27 +46,24 @@ TV Réalité: 6 channels
 Style de vie/Pratique: 5 channels
 Sports & Auto: 5 channels
 Documentaire: 5 channels
-Sport Thématique: 4 channels
 Anime: 4 channels
+Nouveau sur Pluto TV: 4 channels
+Sport Thématique: 3 channels
 Locale: 3 channels
 Télé réalité: 3 channels
-News: 3 channels
-Nouveau sur Pluto TV: 3 channels
 Comédie: 3 channels
 Découverte: 2 channels
 Emissions cultes: 2 channels
+News: 2 channels
 Etrangère: 1 channels
 
 FAILED URLS
 -----------
 URL: http://premium-play.org:8000/saidclt201/XmQat4ju/2826
-Error: HTTPConnectionPool(host='premium-play.org', port=8000): Max retries exceeded with url: /saidclt201/XmQat4ju/2826 (Caused by ConnectTimeoutError(<HTTPConnection(host='premium-play.org', port=8000) at 0x7fa0e26fe550>, 'Connection to premium-play.org timed out. (connect timeout=12)'))
+Error: HTTPConnectionPool(host='premium-play.org', port=8000): Max retries exceeded with url: /saidclt201/XmQat4ju/2826 (Caused by ConnectTimeoutError(<HTTPConnection(host='premium-play.org', port=8000) at 0x7f441a71a5d0>, 'Connection to premium-play.org timed out. (connect timeout=12)'))
 
 URL: http://premium-play.org:8000/saidclt201/XmQat4ju/2831
-Error: HTTPConnectionPool(host='premium-play.org', port=8000): Max retries exceeded with url: /saidclt201/XmQat4ju/2831 (Caused by ConnectTimeoutError(<HTTPConnection(host='premium-play.org', port=8000) at 0x7fa0e27a8910>, 'Connection to premium-play.org timed out. (connect timeout=12)'))
-
-URL: https://tinyurl.com/Stream2IPTV?region=fr&service=SamsungTVPlus
-Error: HTTPSConnectionPool(host='script.googleusercontent.com', port=443): Read timed out. (read timeout=12)
+Error: HTTPConnectionPool(host='premium-play.org', port=8000): Max retries exceeded with url: /saidclt201/XmQat4ju/2831 (Caused by ConnectTimeoutError(<HTTPConnection(host='premium-play.org', port=8000) at 0x7f441a7c4a50>, 'Connection to premium-play.org timed out. (connect timeout=12)'))
 
 URL: http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/7344
 Error: HTTPConnectionPool(host='link.softiptv.com', port=2500): Max retries exceeded with url: /0iP7tOoIA0/0UAuo8Rw88/7344 (Caused by NewConnectionError("HTTPConnection(host='link.softiptv.com', port=2500): Failed to establish a new connection: [Errno 101] Network is unreachable"))
@@ -77,7 +74,7 @@ Error: HTTPConnectionPool(host='link.softiptv.com', port=2500): Max retries exce
 VALIDATION FAILURE BREAKDOWN
 ----------------------------
 HTTP 400 Errors: 3 channels
-HTTP 404 Errors: 56 channels
+HTTP 404 Errors: 96 channels
 HTTP 500 Errors: 1 channels
 HTTP 504 Errors: 1 channels
 Inactive: 24 channels
