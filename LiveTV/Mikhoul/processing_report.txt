@@ -1,6 +1,6 @@
 M3U Collector Processing Report
 Country: Mikhoul
-Generated: 2026-09-05 21:49:36
+Generated: 2026-09-06 21:49:47
 ============================================================
 
 PROCESSING STATISTICS
@@ -11,9 +11,9 @@ Parsing Errors: 0
 Urls Validated: 484
 Active Urls: 340
 Geo Blocked Urls: 26
-Validation Time: 101.07322382926941
+Validation Time: 99.64084649085999
 Inactive By Error: {'invalid_content': 15, 'http_404': 100, 'inactive': 24, 'http_400': 3, 'http_504': 1, 'http_500': 1}
-Total Processing Time: 434.2295386791229
+Total Processing Time: 404.7794952392578
 Final Channel Count: 340
 Source Urls Processed: 8
 Total Skipped Urls: 0
@@ -60,10 +60,10 @@ Etrangère: 1 channels
 FAILED URLS
 -----------
 URL: http://premium-play.org:8000/saidclt201/XmQat4ju/2826
-Error: HTTPConnectionPool(host='premium-play.org', port=8000): Max retries exceeded with url: /saidclt201/XmQat4ju/2826 (Caused by ConnectTimeoutError(<HTTPConnection(host='premium-play.org', port=8000) at 0x7f3dccaea590>, 'Connection to premium-play.org timed out. (connect timeout=12)'))
+Error: HTTPConnectionPool(host='premium-play.org', port=8000): Max retries exceeded with url: /saidclt201/XmQat4ju/2826 (Caused by ConnectTimeoutError(<HTTPConnection(host='premium-play.org', port=8000) at 0x7f63f6b3a510>, 'Connection to premium-play.org timed out. (connect timeout=12)'))
 
 URL: http://premium-play.org:8000/saidclt201/XmQat4ju/2831
-Error: HTTPConnectionPool(host='premium-play.org', port=8000): Max retries exceeded with url: /saidclt201/XmQat4ju/2831 (Caused by ConnectTimeoutError(<HTTPConnection(host='premium-play.org', port=8000) at 0x7f3dccb94ad0>, 'Connection to premium-play.org timed out. (connect timeout=12)'))
+Error: HTTPConnectionPool(host='premium-play.org', port=8000): Max retries exceeded with url: /saidclt201/XmQat4ju/2831 (Caused by ConnectTimeoutError(<HTTPConnection(host='premium-play.org', port=8000) at 0x7f63f6bdc910>, 'Connection to premium-play.org timed out. (connect timeout=12)'))
 
 URL: http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/7344
 Error: HTTPConnectionPool(host='link.softiptv.com', port=2500): Max retries exceeded with url: /0iP7tOoIA0/0UAuo8Rw88/7344 (Caused by NewConnectionError("HTTPConnection(host='link.softiptv.com', port=2500): Failed to establish a new connection: [Errno 101] Network is unreachable"))
