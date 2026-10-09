@@ -9,10 +9,10 @@
     "active": true
   },
   {
-    "name": "FRANCE 3",
+    "name": "LCP",
     "type": "TNT",
-    "url": "https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france3.m3u8",
-    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-3-fr.png",
+    "url": "https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/lcpps.m3u8",
+    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lcp-fr.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -27,10 +27,10 @@
     "active": true
   },
   {
-    "name": "LCP",
+    "name": "FRANCE 4",
     "type": "TNT",
-    "url": "https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/lcpps.m3u8",
-    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lcp-fr.png",
+    "url": "https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france4.m3u8",
+    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-4-fr.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -45,10 +45,10 @@
     "active": true
   },
   {
-    "name": "FRANCE 4",
+    "name": "T18",
     "type": "TNT",
-    "url": "https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france4.m3u8",
-    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-4-fr.png",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8",
+    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/t18-fr.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -63,10 +63,10 @@
     "active": true
   },
   {
-    "name": "T18",
+    "name": "FRANCE 3",
     "type": "TNT",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8",
-    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/t18-fr.png",
+    "url": "https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france3.m3u8",
+    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-3-fr.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -90,15 +90,6 @@
     "active": true
   },
   {
-    "name": "RMC STORY",
-    "type": "TNT",
-    "url": "https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8",
-    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-story-fr.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
     "name": "L'ÉQUIPE TV",
     "type": "TNT",
     "url": "https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8",
@@ -108,10 +99,10 @@
     "active": true
   },
   {
-    "name": "RMC LIFE",
+    "name": "RMC STORY",
     "type": "TNT",
-    "url": "https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8",
-    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-life-fr.png",
+    "url": "https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8",
+    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-story-fr.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -121,6 +112,15 @@
     "type": "TNT",
     "url": "https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-decouverte-fr.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "RMC LIFE",
+    "type": "TNT",
+    "url": "https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8",
+    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-life-fr.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -180,21 +180,21 @@
     "active": true
   },
   {
-    "name": "Top Gear",
-    "type": "Sports",
-    "url": "https://amg00793-amg00793c13-samsung-fr-4053-zs.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00793-bbcstudios-topgearfrancesamsungfr-samsungfr/playlist.m3u8?ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.tc_string=%7BTC_STRING%7D&route_version=v2",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2400001TP_20241015T042856SQUARE.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
     "name": "Drive TV",
     "type": "Sports",
     "url": "https://amg01796-fastmediabackbo-drivetv-samsungfr-k7n16.amagi.tv/playlist/amg01796-fastmediabackbo-drivetv-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=HARDCODE_ME_0_OR_1",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3600001BQ_20241015T040258SQUARE.png",
     "quality": "Unknown",
     "language": "en",
+    "active": true
+  },
+  {
+    "name": "Top Gear",
+    "type": "Sports",
+    "url": "https://amg00793-amg00793c13-samsung-fr-4053-zs.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00793-bbcstudios-topgearfrancesamsungfr-samsungfr/playlist.m3u8?ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.tc_string=%7BTC_STRING%7D&route_version=v2",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2400001TP_20241015T042856SQUARE.png",
+    "quality": "Unknown",
+    "language": "unknown",
     "active": true
   },
   {
@@ -267,15 +267,6 @@
     "img": "https://i.ibb.co/MMpFXQL/gong.jpg",
     "quality": "Unknown",
     "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "NOVELA CHANNEL",
-    "type": "Séries et Divertissements",
-    "url": "https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png",
-    "quality": "Unknown",
-    "language": "en",
     "active": true
   },
   {
@@ -461,7 +452,7 @@
   {
     "name": "Pluto TV Ciné",
     "type": "Cinéma",
-    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/embed/hls/channel/5ff5eb810e2996000768c0e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNTQ1MzE0LCJpYXQiOjE3OTE0NTg5MTQsImp0aSI6ImMwOTY4NGQxLTBiMzctNDc4MC1iMGFkLTllM2EzMGQ3MTQyYyJ9.NfdXpbHxXw2V7CvW0Br50LL8SBIsBF-Xu-F5_yGLg5Y&gdprConsent=%7BTC_STRING%7D&gdpr=1",
+    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/embed/hls/channel/5ff5eb810e2996000768c0e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNjMxNzE0LCJpYXQiOjE3OTE1NDUzMTQsImp0aSI6ImYxNTVlNWVhLThmYmYtNDJiMy05MDMzLTQ2MmUzNzgwZTFkNCJ9.dWUMuJHFNTAwUqqeTBOEMhT7eDt24EM9TvOfw9t_W6s&gdprConsent=%7BTC_STRING%7D&gdpr=1",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ3800002W5_20241015T042543SQUARE.png",
     "quality": "Unknown",
     "language": "en",
@@ -738,10 +729,37 @@
     "active": true
   },
   {
+    "name": "Caillou",
+    "type": "Jeunesse",
+    "url": "https://do7nccdsswstc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR4800002NE&coppa=1",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4800002NE_20250121T012923SQUARE.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
     "name": "Tortues Ninja",
     "type": "Jeunesse",
-    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/embed/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNTQ1MzE0LCJpYXQiOjE3OTE0NTg5MTQsImp0aSI6ImU4MDczNDk3LTQyNjEtNGM3Yy04ZTkwLWY5MDk3MzkzMWJmYiJ9.cquNdNy7AUD3qI-LaMSmi4V3CrsKZG39gLG4hZobxww&gdprConsent=%7BTC_STRING%7D&gdpr=1",
+    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/embed/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNjMxNzE0LCJpYXQiOjE3OTE1NDUzMTQsImp0aSI6IjliY2ExOTdkLTExNGMtNDgxYS05YmUxLTkyODIxYjc1ODk5YiJ9._4K8JfvsYqh1Rv_xf2oDJ2QqogIzu_Isf8tK9Mq0kz0&gdprConsent=%7BTC_STRING%7D&gdpr=1",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300046W4_20241015T042901SQUARE.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "Bob L'eponge",
+    "type": "Jeunesse",
+    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/embed/hls/channel/5ffc8c345822750007e167de/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNjMxNzE0LCJpYXQiOjE3OTE1NDUzMTQsImp0aSI6Ijg5YzFiN2RjLWMxZTAtNGFiZi04OTIxLWQ1NTJiZTMxYzk0YyJ9.8p17BDf8IbJHz3-SgvDzH5Wp9fbO9QjWGbL7oQer2wg&gdprConsent=%7BTC_STRING%7D&gdpr=1",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ3800010QO_20241106T142544SQUARE.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "Les Lapins Crétins",
+    "type": "Jeunesse",
+    "url": "https://d3j64gsz3p1tbh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ti6n3wv3h518m/RabiddsInvasion_FR.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBD2300002CM&coppa=1",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2300002CM_20251209T004459SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -765,24 +783,6 @@
     "active": true
   },
   {
-    "name": "Les Lapins Crétins",
-    "type": "Jeunesse",
-    "url": "https://d3j64gsz3p1tbh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ti6n3wv3h518m/RabiddsInvasion_FR.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBD2300002CM&coppa=1",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2300002CM_20251209T004459SQUARE.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Caillou",
-    "type": "Jeunesse",
-    "url": "https://do7nccdsswstc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR4800002NE&coppa=1",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4800002NE_20250121T012923SQUARE.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
     "name": "Charlotte aux Fraises",
     "type": "Jeunesse",
     "url": "https://d2mlk5c48g01qb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6b94woo1ox12/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBD1900012T7",
@@ -792,18 +792,9 @@
     "active": true
   },
   {
-    "name": "Bob L'eponge",
-    "type": "Jeunesse",
-    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/embed/hls/channel/5ffc8c345822750007e167de/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNTQ1MzE0LCJpYXQiOjE3OTE0NTg5MTQsImp0aSI6ImI1OTJhZmQ0LThmNGMtNDUwMi1hZGE3LTgwMjcyNWNjNThjZiJ9.LGet91o7xNNyyFYTkYvaQjGaCOfi2xioFiUFQuX1Pvw&gdprConsent=%7BTC_STRING%7D&gdpr=1",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ3800010QO_20241106T142544SQUARE.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
     "name": "Pluto TV Toons",
     "type": "Jeunesse",
-    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/embed/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNTQ1MzE0LCJpYXQiOjE3OTE0NTg5MTQsImp0aSI6Ijk1ZmI4ZTZhLTI5OTEtNDQwNS1hNmMzLTM3ZTgxMGQ4NzdhNiJ9.PYAv_34n3DWyOl7ivRnesDwIjSGsEJ-UwXjU4oDPm-A&gdprConsent=%7BTC_STRING%7D&gdpr=1",
+    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/embed/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNjMxNzE1LCJpYXQiOjE3OTE1NDUzMTUsImp0aSI6IjhkNTY1ZjZlLTdiNGMtNGRiOC1hOGJjLTQzMGU1NmE1NDZkMSJ9.TXuz4Gqg_VqGUZzttFxdO7qd6nlikYy-qrYnB3krbHw&gdprConsent=%7BTC_STRING%7D&gdpr=1",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ38000035M_20250603T004908SQUARE.png",
     "quality": "Unknown",
     "language": "en",
@@ -812,7 +803,7 @@
   {
     "name": "iCarly",
     "type": "Jeunesse",
-    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/embed/hls/channel/5f8ecc7aa44d9c00081fca29/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNTQ1MzE0LCJpYXQiOjE3OTE0NTg5MTQsImp0aSI6IjBkNGYxNzVmLWNlOWEtNDQ1Zi05ODNkLTQzNGEyMzkxMDVkZSJ9.tKTCnYoLG5gcgx_Sz-Vs_qQlBj_EFfw4z3e6MmeavxE&gdprConsent=%7BTC_STRING%7D&gdpr=1",
+    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/embed/hls/channel/5f8ecc7aa44d9c00081fca29/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNjMxNzE0LCJpYXQiOjE3OTE1NDUzMTQsImp0aSI6IjBiOTQ2YWNiLTNhZmYtNDNmMS1hY2IxLWVjZWZjMTdhZGYyNSJ9.23JIiwW_CtRA9ZO0i9oEMOgqB_LpG23usvaT7FLlULA&gdprConsent=%7BTC_STRING%7D&gdpr=1",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ38000061J_20241106T142552SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
@@ -828,6 +819,15 @@
     "active": true
   },
   {
+    "name": "PUBLIC-SÉNAT 24H",
+    "type": "Informations Françaises",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8",
+    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/public-senat-fr.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
     "name": "BFM TV 2 [Geo-blocked]",
     "type": "Informations Françaises",
     "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?start=LIVE&end=END",
@@ -837,19 +837,19 @@
     "active": true
   },
   {
-    "name": "BFM BUSINESS [Geo-blocked]",
+    "name": "FRANCE 24 FR",
     "type": "Informations Françaises",
-    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END",
-    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-business-fr.png",
+    "url": "https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france24.m3u8",
+    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-24-fr.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
   },
   {
-    "name": "FRANCE 24 FR",
+    "name": "BFM BUSINESS [Geo-blocked]",
     "type": "Informations Françaises",
-    "url": "https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france24.m3u8",
-    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-24-fr.png",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END",
+    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-business-fr.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -870,15 +870,6 @@
     "img": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300BFMGRANDSREPORTAGEScoul.png",
     "quality": "Unknown",
     "language": "en",
-    "active": true
-  },
-  {
-    "name": "PUBLIC-SÉNAT 24H",
-    "type": "Informations Françaises",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8",
-    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/public-senat-fr.png",
-    "quality": "Unknown",
-    "language": "unknown",
     "active": true
   },
   {
@@ -918,6 +909,15 @@
     "active": true
   },
   {
+    "name": "INFOSPORT+",
+    "type": "Sport",
+    "url": "http://212.102.60.80/Infosport/index.m3u8",
+    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/infosport-plus-fr.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
     "name": "FRANCE TV DOCS",
     "type": "Découverte",
     "url": "https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/docs.m3u8",
@@ -936,28 +936,10 @@
     "active": true
   },
   {
-    "name": "INFOSPORT+",
-    "type": "Sport",
-    "url": "http://212.102.60.80/Infosport/index.m3u8",
-    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/infosport-plus-fr.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
     "name": "MIEUX TV",
     "type": "Style de vie/Pratique",
     "url": "https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/mieux.m3u8",
     "img": "https://freebox.cdn.scw.iliad.fr/large_thumbnail_COULEUR_edd99e7eee.png",
-    "quality": "Unknown",
-    "language": "en",
-    "active": true
-  },
-  {
-    "name": "FASHION TV",
-    "type": "Style de vie/Pratique",
-    "url": "https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8",
-    "img": "https://freebox.cdn.scw.iliad.fr/241_21651551ee.png",
     "quality": "Unknown",
     "language": "en",
     "active": true
@@ -972,10 +954,10 @@
     "active": true
   },
   {
-    "name": "MY ZEN TV",
+    "name": "FASHION TV",
     "type": "Style de vie/Pratique",
-    "url": "https://amg01255-secomcofites-my-myzen-en-plex-dj4yp.amagi.tv/playlist/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8",
-    "img": "https://freebox.cdn.scw.iliad.fr/243_4125a164b3.png",
+    "url": "https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8",
+    "img": "https://freebox.cdn.scw.iliad.fr/241_21651551ee.png",
     "quality": "Unknown",
     "language": "en",
     "active": true
@@ -990,6 +972,24 @@
     "active": true
   },
   {
+    "name": "MY ZEN TV",
+    "type": "Style de vie/Pratique",
+    "url": "https://amg01255-secomcofites-my-myzen-en-plex-dj4yp.amagi.tv/playlist/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8",
+    "img": "https://freebox.cdn.scw.iliad.fr/243_4125a164b3.png",
+    "quality": "Unknown",
+    "language": "en",
+    "active": true
+  },
+  {
+    "name": "MÉLODY",
+    "type": "Musique",
+    "url": "https://live.creacast.com/telemelody/smil:telemelody-yjvCxE7x.smil/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/melody-fr.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
     "name": "TRACE LATINA",
     "type": "Musique",
     "url": "https://amg01131-tracetv-tracelatinaes-samsungspain-d7byg.amagi.tv/playlist/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8",
@@ -999,10 +999,10 @@
     "active": true
   },
   {
-    "name": "MÉLODY",
+    "name": "TRACE URBAN",
     "type": "Musique",
-    "url": "https://live.creacast.com/telemelody/smil:telemelody-yjvCxE7x.smil/playlist.m3u8",
-    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/melody-fr.png",
+    "url": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/trace-urban-fr.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -1026,55 +1026,19 @@
     "active": true
   },
   {
-    "name": "Vevo Rétro",
-    "type": "Musique",
-    "url": "https://dv4uuj1wovz54.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-fgkrsagavu4p7/Vevo90and2000_FR.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=FRBD1900013CB&ads.ssai_vendor=SSSLIVE&pb_type=pb-fgkrsagavu4p7_cloudfront",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900013CB_20250513T005804SQUARE.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "BBLACK! AFRICA",
-    "type": "Musique",
-    "url": "https://edge17.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8",
-    "img": "https://i.ibb.co/JB18vMW/bblack.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "BBLACK! CLASSIK",
-    "type": "Musique",
-    "url": "https://edge17.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8",
-    "img": "https://i.ibb.co/JB18vMW/bblack.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "TRACE URBAN",
-    "type": "Musique",
-    "url": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
-    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/trace-urban-fr.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "BBLACK! CARIBBEAN",
-    "type": "Musique",
-    "url": "https://edge17.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8",
-    "img": "https://i.ibb.co/JB18vMW/bblack.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
     "name": "Vevo Pop",
     "type": "Musique",
     "url": "https://dxjjczhzl3d73.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-qkf498mh6fyde/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=FRBC2100001YY&ads.ssai_vendor=SSSLIVE&pb_type=pb-qkf498mh6fyde_cloudfront",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC2100001YY_20241015T040412SQUARE.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "Vevo Rétro",
+    "type": "Musique",
+    "url": "https://dv4uuj1wovz54.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-fgkrsagavu4p7/Vevo90and2000_FR.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=FRBD1900013CB&ads.ssai_vendor=SSSLIVE&pb_type=pb-fgkrsagavu4p7_cloudfront",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900013CB_20250513T005804SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -1089,15 +1053,6 @@
     "active": true
   },
   {
-    "name": "Vevo Hip-Hop & R&B",
-    "type": "Musique",
-    "url": "https://d31hrnaw6zz2g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-2ueaswgl25hs2/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=FRBC2100002JA&ads.ssai_vendor=SSSLIVE&pb_type=pb-2ueaswgl25hs2_cloudfront",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC2100002JA_20241015T040410SQUARE.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
     "name": "Cool Summer Channel",
     "type": "Musique",
     "url": "https://d3qw0yugnbr5b7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-rog4iy474pzd0/CoolSummer_GB.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=FR2500001BS&ads.ssai_vendor=SSSLIVE&pb_type=pb-rog4iy474pzd0_cloudfront",
@@ -1107,19 +1062,46 @@
     "active": true
   },
   {
-    "name": "NEW KPOP",
+    "name": "Vevo Hip-Hop & R&B",
     "type": "Musique",
-    "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=newkpop&channel_id=newid_086&apikey=b97c7a7d0c82424bb607e141ef215779&auth=bcd9c4a7-593190e4-aae64e59-52f8273b&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&nh=true&ads.device_dnt=%7BTARGETOPT%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR1700002OZ",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1700002OZ_20251013T054040SQUARE.png",
+    "url": "https://d31hrnaw6zz2g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-2ueaswgl25hs2/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=FRBC2100002JA&ads.ssai_vendor=SSSLIVE&pb_type=pb-2ueaswgl25hs2_cloudfront",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC2100002JA_20241015T040410SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
   },
   {
-    "name": "BFM MARSEILLE PROVENCE [Geo-blocked]",
-    "type": "Régionale",
-    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?start=LIVE&end=END",
-    "img": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300BFMmarseillecoul.png",
+    "name": "BBLACK! CARIBBEAN",
+    "type": "Musique",
+    "url": "https://edge14.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8",
+    "img": "https://i.ibb.co/JB18vMW/bblack.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "BBLACK! AFRICA",
+    "type": "Musique",
+    "url": "https://edge14.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8",
+    "img": "https://i.ibb.co/JB18vMW/bblack.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "BBLACK! CLASSIK",
+    "type": "Musique",
+    "url": "https://edge15.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8",
+    "img": "https://i.ibb.co/JB18vMW/bblack.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "NEW KPOP",
+    "type": "Musique",
+    "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=newkpop&channel_id=newid_086&apikey=b97c7a7d0c82424bb607e141ef215779&auth=bcd9c4a7-593190e4-aae64e59-52f8273b&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&nh=true&ads.device_dnt=%7BTARGETOPT%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR1700002OZ",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1700002OZ_20251013T054040SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -1143,10 +1125,28 @@
     "active": true
   },
   {
+    "name": "BFM MARSEILLE PROVENCE [Geo-blocked]",
+    "type": "Régionale",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?start=LIVE&end=END",
+    "img": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300BFMmarseillecoul.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
     "name": "BFM GRAND LITTORAL [Geo-blocked]",
     "type": "Régionale",
     "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?start=LIVE&end=END",
     "img": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300BFMlittoralcoul.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "BFM NICE COTE D'AZUR [Geo-blocked]",
+    "type": "Régionale",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END",
+    "img": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300BFMnicecoul.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -1165,15 +1165,6 @@
     "type": "Régionale",
     "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END",
     "img": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300BFMdicialpescoul.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "BFM NICE COTE D'AZUR [Geo-blocked]",
-    "type": "Régionale",
-    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END",
-    "img": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300BFMnicecoul.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -1215,24 +1206,6 @@
     "active": true
   },
   {
-    "name": "L'ÉQUIPE LIVE 2",
-    "type": "Sport Multiplex",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-2-dm.m3u8",
-    "img": "https://i.ibb.co/KXhYwm0/lequipe.png",
-    "quality": "Unknown",
-    "language": "en",
-    "active": true
-  },
-  {
-    "name": "L'ÉQUIPE LIVE 5",
-    "type": "Sport Multiplex",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-5-dm.m3u8",
-    "img": "https://i.ibb.co/KXhYwm0/lequipe.png",
-    "quality": "Unknown",
-    "language": "en",
-    "active": true
-  },
-  {
     "name": "L'ÉQUIPE LIVE 3",
     "type": "Sport Multiplex",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-3-dm.m3u8",
@@ -1242,9 +1215,9 @@
     "active": true
   },
   {
-    "name": "L'ÉQUIPE LIVE 7",
+    "name": "L'ÉQUIPE LIVE 2",
     "type": "Sport Multiplex",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-7-dm.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-2-dm.m3u8",
     "img": "https://i.ibb.co/KXhYwm0/lequipe.png",
     "quality": "Unknown",
     "language": "en",
@@ -1260,18 +1233,27 @@
     "active": true
   },
   {
-    "name": "EQUIDIA RACING TROT",
+    "name": "L'ÉQUIPE LIVE 5",
     "type": "Sport Multiplex",
-    "url": "https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racingtrot.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-5-dm.m3u8",
+    "img": "https://i.ibb.co/KXhYwm0/lequipe.png",
     "quality": "Unknown",
-    "language": "unknown",
+    "language": "en",
     "active": true
   },
   {
-    "name": "EQUIDIA RACING MAG",
+    "name": "L'ÉQUIPE LIVE 7",
     "type": "Sport Multiplex",
-    "url": "https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racingmag.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-7-dm.m3u8",
+    "img": "https://i.ibb.co/KXhYwm0/lequipe.png",
+    "quality": "Unknown",
+    "language": "en",
+    "active": true
+  },
+  {
+    "name": "EQUIDIA RACING TROT",
+    "type": "Sport Multiplex",
+    "url": "https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racingtrot.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png",
     "quality": "Unknown",
     "language": "unknown",
@@ -1287,9 +1269,63 @@
     "active": true
   },
   {
+    "name": "EQUIDIA RACING MAG",
+    "type": "Sport Multiplex",
+    "url": "https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racingmag.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "EQUIDIA RACING 1",
+    "type": "Sport Multiplex",
+    "url": "https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing1.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "EQUIDIA RACING 6",
+    "type": "Sport Multiplex",
+    "url": "https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing6.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "EQUIDIA RACING 4",
+    "type": "Sport Multiplex",
+    "url": "https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing4.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
     "name": "EQUIDIA RACING 2",
     "type": "Sport Multiplex",
     "url": "https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing2.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "EQUIDIA RACING 8",
+    "type": "Sport Multiplex",
+    "url": "https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing8.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "EQUIDIA RACING 3",
+    "type": "Sport Multiplex",
+    "url": "https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing3.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png",
     "quality": "Unknown",
     "language": "unknown",
@@ -1308,51 +1344,6 @@
     "name": "EQUIDIA RACING 7",
     "type": "Sport Multiplex",
     "url": "https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing7.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "EQUIDIA RACING 3",
-    "type": "Sport Multiplex",
-    "url": "https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing3.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "EQUIDIA RACING 6",
-    "type": "Sport Multiplex",
-    "url": "https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing6.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "EQUIDIA RACING 1",
-    "type": "Sport Multiplex",
-    "url": "https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing1.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "EQUIDIA RACING 4",
-    "type": "Sport Multiplex",
-    "url": "https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing4.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "EQUIDIA RACING 8",
-    "type": "Sport Multiplex",
-    "url": "https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing8.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png",
     "quality": "Unknown",
     "language": "unknown",
@@ -1395,15 +1386,6 @@
     "active": true
   },
   {
-    "name": "Un si grand soleil",
-    "type": "Séries TV",
-    "url": "https://d187fln7tsxwv3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ar47785ld76dh/Unsigrandsoleil_FR.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR3600001R1",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600001R1_20260127T040243SQUARE.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
     "name": "BBC Series [Geo-blocked]",
     "type": "Séries TV",
     "url": "https://amg00793-amg00793c28-samsung-fr-4957.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramafrancesamsungfrance-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0",
@@ -1440,6 +1422,15 @@
     "active": true
   },
   {
+    "name": "Un si grand soleil",
+    "type": "Séries TV",
+    "url": "https://d187fln7tsxwv3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ar47785ld76dh/Unsigrandsoleil_FR.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR3600001R1",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600001R1_20260127T040243SQUARE.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
     "name": "Plus belle la vie",
     "type": "Séries TV",
     "url": "https://d3ipyp8dvhabux.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hmxhtb1jky0aw/Plusbellelavie_FR.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBD37000020Y",
@@ -1453,15 +1444,6 @@
     "type": "Séries TV",
     "url": "https://d5zc00n67j9gi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xj21jgxaw7tsn/AlerteaMalibu_FR.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBC4700002RF",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700002RF_20251028T011415SQUARE.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Génération Sitcoms",
-    "type": "Séries TV",
-    "url": "https://d3rmb84acv0lqq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-374fwso4zuu2g/GenerationSitcoms_FR.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBC4700001XG",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700001XG_20250624T021408SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -1485,37 +1467,19 @@
     "active": true
   },
   {
+    "name": "Génération Sitcoms",
+    "type": "Séries TV",
+    "url": "https://d3rmb84acv0lqq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-374fwso4zuu2g/GenerationSitcoms_FR.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBC4700001XG",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700001XG_20250624T021408SQUARE.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
     "name": "Mr Bean Animated",
     "type": "Séries TV",
     "url": "https://amg00627-amg00627c26-samsung-fr-3934.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfr-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=1",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR90000160_20251028T011422SQUARE.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Tele.Novela",
-    "type": "Séries TV",
-    "url": "https://d1qf1fnbo60xec.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-arjkqtr3hyot6/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBC14000010C",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC14000010C_20241015T042852SQUARE.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Zee One",
-    "type": "Séries TV",
-    "url": "https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8?ads.wurl_channel=1803&ads.wurl_name=ZeeMagic&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR360000680_20251013T054021SQUARE.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Les riches pleurent aussi",
-    "type": "Séries TV",
-    "url": "https://40413a8d4fab4568b22187b5d7cd15c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Televisa/playlist.m3u8?ads.wurl_channel=820&ads.wurl_name=Televisa&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300022OA_20250819T032118SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -1530,10 +1494,10 @@
     "active": true
   },
   {
-    "name": "Jodha Akbar",
+    "name": "Les riches pleurent aussi",
     "type": "Séries TV",
-    "url": "https://c2cc7eb5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9Kb2RoYUFrYmFyX0hMUw/playlist.m3u8?ads.wurl_channel=2123&ads.wurl_name=JodhaAkbar&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000001TX_20251202T002642SQUARE.png",
+    "url": "https://40413a8d4fab4568b22187b5d7cd15c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Televisa/playlist.m3u8?ads.wurl_channel=820&ads.wurl_name=Televisa&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300022OA_20250819T032118SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -1548,10 +1512,10 @@
     "active": true
   },
   {
-    "name": "Passion Novelas",
+    "name": "Zee One",
     "type": "Séries TV",
-    "url": "https://d16xoa2b3ffhxy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ozahlapff5m92/PassionNovelas_FR.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=FRBD15000024B&ads.ssai_vendor=SSSLIVE&pb_type=pb-ozahlapff5m92_cloudfront",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD15000024B_20241015T042751SQUARE.png",
+    "url": "https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8?ads.wurl_channel=1803&ads.wurl_name=ZeeMagic&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR360000680_20251013T054021SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -1566,10 +1530,28 @@
     "active": true
   },
   {
-    "name": "Reuters",
-    "type": "Actualités",
-    "url": "https://amg00453-reuters-amg00453c1-samsung-fr-2112.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD490000195_20241015T042818SQUARE.png",
+    "name": "Tele.Novela",
+    "type": "Séries TV",
+    "url": "https://d1qf1fnbo60xec.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-arjkqtr3hyot6/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBC14000010C",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC14000010C_20241015T042852SQUARE.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "Jodha Akbar",
+    "type": "Séries TV",
+    "url": "https://c2cc7eb5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9Kb2RoYUFrYmFyX0hMUw/playlist.m3u8?ads.wurl_channel=2123&ads.wurl_name=JodhaAkbar&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000001TX_20251202T002642SQUARE.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "Passion Novelas",
+    "type": "Séries TV",
+    "url": "https://pb-ozahlapff5m92.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ozahlapff5m92/PassionNovelas_FR.m3u8?ads.ads_cdn=ak&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=ak&ads.consent=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=FRBD15000024B&ads.ssai_vendor=SSSLIVE&pb_type=pb-ozahlapff5m92_akamai",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD15000024B_20241015T042751SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -1584,6 +1566,15 @@
     "active": true
   },
   {
+    "name": "Reuters",
+    "type": "Actualités",
+    "url": "https://amg00453-reuters-amg00453c1-samsung-fr-2112.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD490000195_20241015T042818SQUARE.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
     "name": "BFM 2",
     "type": "Actualités",
     "url": "https://doqummfqb4smz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-qm8ret4yib2ue/BFM2_FR.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=FR1400003Y0&ads.ssai_vendor=SSSLIVE&pb_type=pb-qm8ret4yib2ue_cloudfront",
@@ -1593,10 +1584,10 @@
     "active": true
   },
   {
-    "name": "Al Jazeera",
+    "name": "CNN Headlines",
     "type": "Actualités",
-    "url": "https://amg00222-amg00222c4-amgplt0011.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR23000013B_20251118T015405SQUARE.png",
+    "url": "https://d2dbclbbd0dwnj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vfen7v8uxmmt1/CNNFAST_GB.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBD190001055",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD190001055_20251209T004428SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -1611,12 +1602,12 @@
     "active": true
   },
   {
-    "name": "CNN Headlines",
+    "name": "Bloomberg TV+",
     "type": "Actualités",
-    "url": "https://d2dbclbbd0dwnj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vfen7v8uxmmt1/CNNFAST_GB.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBD190001055",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD190001055_20251209T004428SQUARE.png",
+    "url": "https://995e2d68.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9CbG9vbWJlcmdUVkZyYW5jZV9ITFM/playlist.m3u8?ads.wurl_channel=2029&ads.wurl_name=BloombergTVFrance&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400004VF_20250603T004911SQUARE.png",
     "quality": "Unknown",
-    "language": "unknown",
+    "language": "en",
     "active": true
   },
   {
@@ -1629,19 +1620,10 @@
     "active": true
   },
   {
-    "name": "Bloomberg TV+",
+    "name": "Al Jazeera",
     "type": "Actualités",
-    "url": "https://995e2d68.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9CbG9vbWJlcmdUVkZyYW5jZV9ITFM/playlist.m3u8?ads.wurl_channel=2029&ads.wurl_name=BloombergTVFrance&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400004VF_20250603T004911SQUARE.png",
-    "quality": "Unknown",
-    "language": "en",
-    "active": true
-  },
-  {
-    "name": "RMC Wow",
-    "type": "Divertissement",
-    "url": "https://d166zytqw6t3v1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-1vsken4s8z6ko/RMC_Wow_FR.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=FR300001M1&ads.ssai_vendor=SSSLIVE&pb_type=pb-1vsken4s8z6ko_cloudfront",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300001M1_20241015T042812SQUARE.png",
+    "url": "https://amg00222-amg00222c4-amgplt0011.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR23000013B_20251118T015405SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -1656,24 +1638,6 @@
     "active": true
   },
   {
-    "name": "RMC MYSTERE",
-    "type": "Divertissement",
-    "url": "https://d1g34d36ivifff.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-uaa4490jrsw2d/RMC_MYSTERE_FR.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=FR300006GF&ads.ssai_vendor=SSSLIVE&pb_type=pb-uaa4490jrsw2d_cloudfront",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300006GF_20241106T142644SQUARE.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Ardivision",
-    "type": "Divertissement",
-    "url": "https://d2pz58cdyujicr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-4wsllw51xjnxp/media.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=FRBD300000170&ads.ssai_vendor=SSSLIVE&pb_type=pb-4wsllw51xjnxp_cloudfront",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD300000170_20241030T154345SQUARE.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
     "name": "Le Meilleur des Jeux TV",
     "type": "Divertissement",
     "url": "https://amg02393-awpg-amg02393c9-samsung-fr-5245.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdesjeuxtv-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0",
@@ -1683,19 +1647,19 @@
     "active": true
   },
   {
-    "name": "Qui veut gagner des millions ?",
+    "name": "Les Z'amours",
     "type": "Divertissement",
-    "url": "https://amg02393-awpg-amg02393c1-samsung-fr-582.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900007PQ_20260127T040241SQUARE.png",
+    "url": "https://amg02393-awpg-amg02393c3-samsung-fr-574.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900005BA_20251013T054034SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
   },
   {
-    "name": "Les Z'amours",
+    "name": "Qui veut gagner des millions ?",
     "type": "Divertissement",
-    "url": "https://amg02393-awpg-amg02393c3-samsung-fr-574.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900005BA_20251013T054034SQUARE.png",
+    "url": "https://amg02393-awpg-amg02393c1-samsung-fr-582.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900007PQ_20260127T040241SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -1710,19 +1674,19 @@
     "active": true
   },
   {
-    "name": "Familles en Scène",
+    "name": "Y'a que la vérité qui compte",
     "type": "Divertissement",
-    "url": "https://amg02393-awpg-amg02393c8-samsung-fr-5136.playouts.now.amagi.tv/playlist/amg02393-awpg-famillesenscene-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600002W2_20241106T142619SQUARE.png",
+    "url": "https://amg01796-fastmediabackbo-yaquelaverite-samsungfr-eas5m.amagi.tv/playlist/amg01796-fastmediabackbo-yaquelaverite-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900003KP_20250923T010349SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
   },
   {
-    "name": "Y'a que la vérité qui compte",
+    "name": "Familles en Scène",
     "type": "Divertissement",
-    "url": "https://amg01796-fastmediabackbo-yaquelaverite-samsungfr-eas5m.amagi.tv/playlist/amg01796-fastmediabackbo-yaquelaverite-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900003KP_20250923T010349SQUARE.png",
+    "url": "https://amg02393-awpg-amg02393c8-samsung-fr-5136.playouts.now.amagi.tv/playlist/amg02393-awpg-famillesenscene-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600002W2_20241106T142619SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -1737,28 +1701,19 @@
     "active": true
   },
   {
-    "name": "Dhar Mann TV",
+    "name": "RMC Wow",
     "type": "Divertissement",
-    "url": "https://d2z8gnr1n056wx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cotn6rb8uta22/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR3800005NP",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3800005NP_20251111T012043SQUARE.png",
+    "url": "https://d166zytqw6t3v1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-1vsken4s8z6ko/RMC_Wow_FR.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=FR300001M1&ads.ssai_vendor=SSSLIVE&pb_type=pb-1vsken4s8z6ko_cloudfront",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300001M1_20241015T042812SQUARE.png",
     "quality": "Unknown",
-    "language": "en",
+    "language": "unknown",
     "active": true
   },
   {
-    "name": "MTV Classics",
+    "name": "RMC MYSTERE",
     "type": "Divertissement",
-    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/embed/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNTQ1MzE0LCJpYXQiOjE3OTE0NTg5MTQsImp0aSI6ImFmYmU1ZmQ1LTQzYjctNDAxZC05Y2NmLWJmZDkyMWQwOTQzZiJ9.p7xwWseMbInbCRiUvYMZIsBOdZg_SCZunuiEpjIegck&gdprConsent=%7BTC_STRING%7D&gdpr=1",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ3800004CC_20241015T042519SQUARE.png",
-    "quality": "Unknown",
-    "language": "en",
-    "active": true
-  },
-  {
-    "name": "MGG FAST",
-    "type": "Divertissement",
-    "url": "https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBC3900003ZH",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900003ZH_20250422T045312SQUARE.png",
+    "url": "https://d1g34d36ivifff.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-uaa4490jrsw2d/RMC_MYSTERE_FR.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=FR300006GF&ads.ssai_vendor=SSSLIVE&pb_type=pb-uaa4490jrsw2d_cloudfront",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300006GF_20241106T142644SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -1773,21 +1728,12 @@
     "active": true
   },
   {
-    "name": "House of Creators [Geo-blocked]",
+    "name": "Ardivision",
     "type": "Divertissement",
-    "url": "https://jmp2.uk/plu-6a1ea44109705ebdf73b7c49.m3u8",
-    "img": "https://images.pluto.tv/channels/6a1ea44109705ebdf73b7c49/colorLogoPNG_1782459640532.png",
+    "url": "https://d2pz58cdyujicr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-4wsllw51xjnxp/media.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=FRBD300000170&ads.ssai_vendor=SSSLIVE&pb_type=pb-4wsllw51xjnxp_cloudfront",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD300000170_20241030T154345SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Pluto TV Cuisine",
-    "type": "Divertissement",
-    "url": "https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNTY2ODQ5LCJpYXQiOjE3OTE0ODA0NDksImp0aSI6IjFkMWU1NzMxLWFiZGYtNDU5Ny05MjM1LWI0NjJhYTdhN2Q0MCJ9.H1htg-inLikwntxlPYbwtOATcxN6OH24jT1WmPVGWxw",
-    "img": "https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG_1733440509319.png",
-    "quality": "Unknown",
-    "language": "en",
     "active": true
   },
   {
@@ -1795,42 +1741,6 @@
     "type": "Divertissement",
     "url": "https://jmp2.uk/plu-66f55d205e4a6e0008c2b92b.m3u8",
     "img": "https://images.pluto.tv/channels/66f55d205e4a6e0008c2b92b/colorLogoPNG.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Epicurieux avec Jamy",
-    "type": "Divertissement",
-    "url": "https://d1dzvywp5tcxbn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ryq1as86j3gxc/epic.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBD5100003TP",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100003TP_20251202T002632SQUARE.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Pêche à haut risque [Geo-blocked]",
-    "type": "Divertissement",
-    "url": "https://jmp2.uk/plu-678f894ef5c74bff95c20a7f.m3u8",
-    "img": "https://images.pluto.tv/channels/678f894ef5c74bff95c20a7f/colorLogoPNG.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Incroyables Fortunes",
-    "type": "Divertissement",
-    "url": "https://dn8mc7o4f0o74.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e2c0yg2t7bpaj/aildl.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR600001I2",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR600001I2_20251202T002639SQUARE.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Fireplace Vibes",
-    "type": "Divertissement",
-    "url": "https://d1taupk623zu22.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yokf1ccx00my8/Fireplace_4K_SONO20.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR2200002HV",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2200002HV_20251216T040612SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -1845,10 +1755,19 @@
     "active": true
   },
   {
-    "name": "Pluto TV Inside [Geo-blocked]",
+    "name": "Pluto TV Cuisine",
     "type": "Divertissement",
-    "url": "https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8",
-    "img": "https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png",
+    "url": "https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNjUzMjQ5LCJpYXQiOjE3OTE1NjY4NDksImp0aSI6IjdhYmYyYmM4LWE2ZGQtNDU5ZS1hODQyLTQwNDY2NjEyNDhmNiJ9.8-m6BINujjGrvHR--ShFRSksJjr4LdLwl3cpPXPfmMI",
+    "img": "https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG_1733440509319.png",
+    "quality": "Unknown",
+    "language": "en",
+    "active": true
+  },
+  {
+    "name": "Dhar Mann TV",
+    "type": "Divertissement",
+    "url": "https://d2z8gnr1n056wx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cotn6rb8uta22/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR3800005NP",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3800005NP_20251111T012043SQUARE.png",
     "quality": "Unknown",
     "language": "en",
     "active": true
@@ -1863,6 +1782,15 @@
     "active": true
   },
   {
+    "name": "Pêche à haut risque [Geo-blocked]",
+    "type": "Divertissement",
+    "url": "https://jmp2.uk/plu-678f894ef5c74bff95c20a7f.m3u8",
+    "img": "https://images.pluto.tv/channels/678f894ef5c74bff95c20a7f/colorLogoPNG.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
     "name": "Zone Interdite [Geo-blocked]",
     "type": "Divertissement",
     "url": "https://jmp2.uk/plu-66f55cf2483d460008f68746.m3u8",
@@ -1872,10 +1800,64 @@
     "active": true
   },
   {
-    "name": "Voyages & Saveurs",
-    "type": "Voyages et Gastronomie",
-    "url": "https://amg01821-amg01821c24-samsung-fr-5157.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-voyagesandsaveurs-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600005C7_20251125T101554SQUARE.png",
+    "name": "MTV Classics",
+    "type": "Divertissement",
+    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/embed/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNjMxNzE0LCJpYXQiOjE3OTE1NDUzMTQsImp0aSI6ImYyNzk2ZGNmLWM3MDgtNDdmZS04YmM3LTk2Njc2OGEyNDA2NyJ9.hhAK33sGbaTKjDl5_FTjwH3T1ybL8tNIBRDy8eZf88M&gdprConsent=%7BTC_STRING%7D&gdpr=1",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ3800004CC_20241015T042519SQUARE.png",
+    "quality": "Unknown",
+    "language": "en",
+    "active": true
+  },
+  {
+    "name": "Epicurieux avec Jamy",
+    "type": "Divertissement",
+    "url": "https://d1dzvywp5tcxbn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ryq1as86j3gxc/epic.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBD5100003TP",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100003TP_20251202T002632SQUARE.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "House of Creators [Geo-blocked]",
+    "type": "Divertissement",
+    "url": "https://jmp2.uk/plu-6a1ea44109705ebdf73b7c49.m3u8",
+    "img": "https://images.pluto.tv/channels/6a1ea44109705ebdf73b7c49/colorLogoPNG_1782459640532.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "Incroyables Fortunes",
+    "type": "Divertissement",
+    "url": "https://dn8mc7o4f0o74.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e2c0yg2t7bpaj/aildl.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR600001I2",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR600001I2_20251202T002639SQUARE.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "Pluto TV Inside [Geo-blocked]",
+    "type": "Divertissement",
+    "url": "https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8",
+    "img": "https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png",
+    "quality": "Unknown",
+    "language": "en",
+    "active": true
+  },
+  {
+    "name": "MGG FAST",
+    "type": "Divertissement",
+    "url": "https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBC3900003ZH",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900003ZH_20250422T045312SQUARE.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "Fireplace Vibes",
+    "type": "Divertissement",
+    "url": "https://d1taupk623zu22.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yokf1ccx00my8/Fireplace_4K_SONO20.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR2200002HV",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2200002HV_20251216T040612SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -1890,10 +1872,10 @@
     "active": true
   },
   {
-    "name": "Invitation au voyage",
+    "name": "Voyages & Saveurs",
     "type": "Voyages et Gastronomie",
-    "url": "https://d3223vg0o80ccf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xn2vfltkhli08/Invitationauvoyage_FR.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR3700004HZ",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700004HZ_20251230T031040SQUARE.png",
+    "url": "https://amg01821-amg01821c24-samsung-fr-5157.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-voyagesandsaveurs-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600005C7_20251125T101554SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -1903,6 +1885,15 @@
     "type": "Voyages et Gastronomie",
     "url": "https://amg02232-botravail-amg02232c1-samsung-fr-308.playouts.now.amagi.tv/playlist/amg02232-botravail-echappeesbelles-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3500002E4_20241015T040301SQUARE.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "Invitation au voyage",
+    "type": "Voyages et Gastronomie",
+    "url": "https://d3223vg0o80ccf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xn2vfltkhli08/Invitationauvoyage_FR.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR3700004HZ",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700004HZ_20251230T031040SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -1937,7 +1928,7 @@
   {
     "name": "MTV Catfish",
     "type": "Télé réalité",
-    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/embed/hls/channel/5f8eb66537867f0007146953/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNTQ1MzE0LCJpYXQiOjE3OTE0NTg5MTQsImp0aSI6IjRiYjIyY2VlLTIzOWMtNGI5MC05NTY0LWI3ZWRiYzgxNzA0YyJ9.ZktSEOvPo6fTE4yt-s71kiayZTEpvxQImxPLU4tIHvU&gdprConsent=%7BTC_STRING%7D&gdpr=1",
+    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/embed/hls/channel/5f8eb66537867f0007146953/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNjMxNzE0LCJpYXQiOjE3OTE1NDUzMTQsImp0aSI6ImQzYTY5NWM2LWVmMWUtNDgxNi1iNWE1LTU5Yzk2NzljZTRkOCJ9.MMRTshJs9aS35Y_AEXX-u9t9t6zzdjlLDvuuwMmD7bk&gdprConsent=%7BTC_STRING%7D&gdpr=1",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ38000050Z_20241015T042517SQUARE.png",
     "quality": "Unknown",
     "language": "en",
@@ -1948,24 +1939,6 @@
     "type": "Télé réalité",
     "url": "https://amg02393-awpg-amg02393c5-samsung-fr-1100.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100001DF_20260113T032403SQUARE.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Yu-Gi-Oh!",
-    "type": "Anime",
-    "url": "https://amg01796-amg01796c16-samsung-fr-7084.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3fr-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR7000045E_20250408T021644SQUARE.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "ADN",
-    "type": "Anime",
-    "url": "https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBD5100001ZA",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20250610T011318SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -1989,27 +1962,27 @@
     "active": true
   },
   {
-    "name": "100% Docs Crime",
-    "type": "Crime",
-    "url": "https://amg02162-newenconnect-amg02162c2-samsung-fr-1077.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000064E_20251118T015629SQUARE.png",
+    "name": "Yu-Gi-Oh!",
+    "type": "Anime",
+    "url": "https://amg01796-amg01796c16-samsung-fr-7084.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3fr-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR7000045E_20250408T021644SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
   },
   {
-    "name": "Crime - Rakuten TV",
-    "type": "Crime",
-    "url": "https://crime-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6214-playout/master.m3u8?ads.app_bundle=G15147002586&ads.app_name=%7BAPP_NAME%7D&ads.app_store_url=%7BAPP_DOMAIN%7D&ads.content_livestream=0&ads.device_lmt=%7BTARGETOPT%7D&ads.did=%7BPSID%7D&ads.gdpr_consent=%7BTC_STRING%7D&ads.ifa_type=tifa&ads.inv_partner_domain=rakuten.tv&ads.market=fr&ads.platform=samsung_tvplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=crime-rakuten-tv_fr&ads.rtv_content_id=6214&ads.rtv_language=fr&channel_id=6214&publishing_platform_id=1&tenant_identifier=rtv",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600009UG_20241126T043134SQUARE.png",
+    "name": "ADN",
+    "type": "Anime",
+    "url": "https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBD5100001ZA",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20250610T011318SQUARE.png",
     "quality": "Unknown",
-    "language": "en",
+    "language": "unknown",
     "active": true
   },
   {
     "name": "Pluto TV Polar",
     "type": "Crime",
-    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/embed/hls/channel/5f8ed4dbf6bb0800071ffbcb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNTQ1MzE0LCJpYXQiOjE3OTE0NTg5MTQsImp0aSI6ImNmZWU1MWUxLThhMDItNGUwMy04ZWFmLWExZjA3Mjc0OWEyMyJ9.fTOV65WVWA_2wYmk5QQ24zgKNUsijOGYcSe1FdkZEM8&gdprConsent=%7BTC_STRING%7D&gdpr=1",
+    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/embed/hls/channel/5f8ed4dbf6bb0800071ffbcb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNjMxNzE0LCJpYXQiOjE3OTE1NDUzMTQsImp0aSI6IjNlMjBlYjkzLWZiYmEtNDdjMy05YTZlLTczZGU0NTFhMWYxNSJ9.0rlXq130DKUXK1W94mKMeNH14LxkWai_TiHPOgblGeA&gdprConsent=%7BTC_STRING%7D&gdpr=1",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ38000089S_20241015T042551SQUARE.png",
     "quality": "Unknown",
     "language": "en",
@@ -2025,15 +1998,6 @@
     "active": true
   },
   {
-    "name": "Faites entrer l'accusé",
-    "type": "Crime",
-    "url": "https://d19baroazz7jh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz6iuw13jnx7c/Faitesentrerlaccuse_FR.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR1400002XF",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400002XF_20251111T012047SQUARE.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
     "name": "Love Crime & History",
     "type": "Crime",
     "url": "https://amg01821-lovetv-amg01821c16-samsung-fr-1295.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovecrimeandhistoryfrance-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0&ads.gdpr=1&ads.content_livestream=1&ads.inv_partner_domain=%7BINV_PARTNER_DOMAIN%7D",
@@ -2043,10 +2007,19 @@
     "active": true
   },
   {
-    "name": "Crimes Enquêtes Faits Divers",
+    "name": "100% Docs Crime",
     "type": "Crime",
-    "url": "https://ddtlc5lxd6hjc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-03krsbhyvxph5/imcrj.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR600002ZR",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR600002ZR_20251202T002626SQUARE.png",
+    "url": "https://amg02162-newenconnect-amg02162c2-samsung-fr-1077.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000064E_20251118T015629SQUARE.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "Faites entrer l'accusé",
+    "type": "Crime",
+    "url": "https://d19baroazz7jh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz6iuw13jnx7c/Faitesentrerlaccuse_FR.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR1400002XF",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400002XF_20251111T012047SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -2061,19 +2034,19 @@
     "active": true
   },
   {
-    "name": "J'irai dormir chez vous",
-    "type": "Documentaires",
-    "url": "https://d48oo3kvzguvw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-n3hcjmyqpnkvf/Jirai_dormir_chez_vous_FR.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=FRBD4800001P4&ads.ssai_vendor=SSSLIVE&pb_type=pb-n3hcjmyqpnkvf_cloudfront",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20241106T142647SQUARE.png",
+    "name": "Crime - Rakuten TV",
+    "type": "Crime",
+    "url": "https://crime-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6214-playout/master.m3u8?ads.app_bundle=G15147002586&ads.app_name=%7BAPP_NAME%7D&ads.app_store_url=%7BAPP_DOMAIN%7D&ads.content_livestream=0&ads.device_lmt=%7BTARGETOPT%7D&ads.did=%7BPSID%7D&ads.gdpr_consent=%7BTC_STRING%7D&ads.ifa_type=tifa&ads.inv_partner_domain=rakuten.tv&ads.market=fr&ads.platform=samsung_tvplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=crime-rakuten-tv_fr&ads.rtv_content_id=6214&ads.rtv_language=fr&channel_id=6214&publishing_platform_id=1&tenant_identifier=rtv",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600009UG_20241126T043134SQUARE.png",
     "quality": "Unknown",
-    "language": "unknown",
+    "language": "en",
     "active": true
   },
   {
-    "name": "Mayday: Catastrophe Aérienne [Geo-blocked]",
-    "type": "Documentaires",
-    "url": "https://amg01821-amg01821c40-samsung-fr-10640.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvfast-maydaycatastropheaeriennefr-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR400000413_20251209T004503SQUARE.png",
+    "name": "Crimes Enquêtes Faits Divers",
+    "type": "Crime",
+    "url": "https://ddtlc5lxd6hjc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-03krsbhyvxph5/imcrj.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR600002ZR",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR600002ZR_20251202T002626SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -2088,10 +2061,10 @@
     "active": true
   },
   {
-    "name": "RMC alerte secours",
+    "name": "Mayday: Catastrophe Aérienne [Geo-blocked]",
     "type": "Documentaires",
-    "url": "https://dr9a4saxdng99.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-3rz2xdotbt6ux/RMC_alerte_secours_FR.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=FR30000271&ads.ssai_vendor=SSSLIVE&pb_type=pb-3rz2xdotbt6ux_cloudfront",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR30000271_20241015T042814SQUARE.png",
+    "url": "https://amg01821-amg01821c40-samsung-fr-10640.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvfast-maydaycatastropheaeriennefr-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR400000413_20251209T004503SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -2115,6 +2088,24 @@
     "active": true
   },
   {
+    "name": "J'irai dormir chez vous",
+    "type": "Documentaires",
+    "url": "https://d48oo3kvzguvw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-n3hcjmyqpnkvf/Jirai_dormir_chez_vous_FR.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=FRBD4800001P4&ads.ssai_vendor=SSSLIVE&pb_type=pb-n3hcjmyqpnkvf_cloudfront",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20241106T142647SQUARE.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "RMC alerte secours",
+    "type": "Documentaires",
+    "url": "https://dr9a4saxdng99.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-3rz2xdotbt6ux/RMC_alerte_secours_FR.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=FR30000271&ads.ssai_vendor=SSSLIVE&pb_type=pb-3rz2xdotbt6ux_cloudfront",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR30000271_20241015T042814SQUARE.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
     "name": "Mission Intervention",
     "type": "Documentaires",
     "url": "https://dmskmsump4xmr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xja0jm5a38uno/rl.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR700002UP",
@@ -2133,10 +2124,10 @@
     "active": true
   },
   {
-    "name": "BFM Grands Reportages",
+    "name": "NatureTime",
     "type": "Documentaires",
-    "url": "https://d2wyflmwvdplq3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-5b47dn6spkx5z/BFM_Grand_Reportage_FR.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=FR300004J5&ads.ssai_vendor=SSSLIVE&pb_type=pb-5b47dn6spkx5z_cloudfront",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300004J5_20241015T040221SQUARE.png",
+    "url": "https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4900002D4_20241015T042746SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -2151,10 +2142,10 @@
     "active": true
   },
   {
-    "name": "NatureTime",
+    "name": "BFM Grands Reportages",
     "type": "Documentaires",
-    "url": "https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4900002D4_20241015T042746SQUARE.png",
+    "url": "https://d2wyflmwvdplq3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-5b47dn6spkx5z/BFM_Grand_Reportage_FR.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=FR300004J5&ads.ssai_vendor=SSSLIVE&pb_type=pb-5b47dn6spkx5z_cloudfront",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300004J5_20241015T040221SQUARE.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -2169,6 +2160,15 @@
     "active": true
   },
   {
+    "name": "Blue Bloods [Geo-blocked]",
+    "type": "Séries Policières",
+    "url": "https://jmp2.uk/plu-66f55a9a747bfa0008521859.m3u8",
+    "img": "https://images.pluto.tv/channels/66f55a9a747bfa0008521859/colorLogoPNG.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
     "name": "femme flic\" tvg-logo=\"https://images.pluto.tv/channels/6671b26836a2f90008d9333c/colorLogoPNG.png\" group-title=\"Séries Policières\",Diane femme flic [Geo-blocked]",
     "type": "Séries Policières",
     "url": "https://jmp2.uk/plu-6671b26836a2f90008d9333c.m3u8",
@@ -2178,37 +2178,10 @@
     "active": true
   },
   {
-    "name": "Pluto TV Brigade Criminelle [Geo-blocked]",
-    "type": "Séries Policières",
-    "url": "https://jmp2.uk/plu-684bf01df7d8b74b625b7dd1.m3u8",
-    "img": "https://images.pluto.tv/channels/684bf01df7d8b74b625b7dd1/colorLogoPNG_1753890939606.png",
-    "quality": "Unknown",
-    "language": "en",
-    "active": true
-  },
-  {
-    "name": "Walker Texas Ranger [Geo-blocked]",
-    "type": "Séries Policières",
-    "url": "https://jmp2.uk/plu-60afa749ac7f3200078adb40.m3u8",
-    "img": "https://images.pluto.tv/channels/60afa749ac7f3200078adb40/colorLogoPNG.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
     "name": "Flashpoint [Geo-blocked]",
     "type": "Séries Policières",
     "url": "https://jmp2.uk/plu-66d71ff86b63480008cf15c5.m3u8",
     "img": "https://images.pluto.tv/channels/66d71ff86b63480008cf15c5/colorLogoPNG.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Blue Bloods [Geo-blocked]",
-    "type": "Séries Policières",
-    "url": "https://jmp2.uk/plu-66f55a9a747bfa0008521859.m3u8",
-    "img": "https://images.pluto.tv/channels/66f55a9a747bfa0008521859/colorLogoPNG.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -2241,6 +2214,42 @@
     "active": true
   },
   {
+    "name": "Walker Texas Ranger [Geo-blocked]",
+    "type": "Séries Policières",
+    "url": "https://jmp2.uk/plu-60afa749ac7f3200078adb40.m3u8",
+    "img": "https://images.pluto.tv/channels/60afa749ac7f3200078adb40/colorLogoPNG.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "Pluto TV Brigade Criminelle [Geo-blocked]",
+    "type": "Séries Policières",
+    "url": "https://jmp2.uk/plu-684bf01df7d8b74b625b7dd1.m3u8",
+    "img": "https://images.pluto.tv/channels/684bf01df7d8b74b625b7dd1/colorLogoPNG_1753890939606.png",
+    "quality": "Unknown",
+    "language": "en",
+    "active": true
+  },
+  {
+    "name": "Dawson [Geo-blocked]",
+    "type": "À Binge-Watch",
+    "url": "https://jmp2.uk/plu-69aadc5551df9542f2521e1a.m3u8",
+    "img": "https://images.pluto.tv/channels/69aadc5551df9542f2521e1a/colorLogoPNG_1775658935857.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "Cheers [Geo-blocked]",
+    "type": "À Binge-Watch",
+    "url": "https://jmp2.uk/plu-65cce14060eb870008dbd003.m3u8",
+    "img": "https://images.pluto.tv/channels/65cce14060eb870008dbd003/colorLogoPNG.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
     "name": "MacGyver [Geo-blocked]",
     "type": "À Binge-Watch",
     "url": "https://jmp2.uk/plu-6245ccd0c6cdb800074632e4.m3u8",
@@ -2250,21 +2259,12 @@
     "active": true
   },
   {
-    "name": "Pluto TV 90's Classics [Geo-blocked]",
+    "name": "Mission Impossible [Geo-blocked]",
     "type": "À Binge-Watch",
-    "url": "https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8",
-    "img": "https://images.pluto.tv/channels/66b4990746762a00084c2f78/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-6671b21ffc3a46000857fe75.m3u8",
+    "img": "https://images.pluto.tv/channels/6671b21ffc3a46000857fe75/colorLogoPNG.png",
     "quality": "Unknown",
-    "language": "en",
-    "active": true
-  },
-  {
-    "name": "Pluto TV Séries Fantastiques [Geo-blocked]",
-    "type": "À Binge-Watch",
-    "url": "https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8",
-    "img": "https://images.pluto.tv/channels/625ec7a1c853fd00073b38fd/colorLogoPNG_1775048560569.png",
-    "quality": "Unknown",
-    "language": "en",
+    "language": "unknown",
     "active": true
   },
   {
@@ -2286,19 +2286,10 @@
     "active": true
   },
   {
-    "name": "Tout le monde déteste Chris [Geo-blocked]",
+    "name": "La Moderna [Geo-blocked]",
     "type": "À Binge-Watch",
-    "url": "https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8",
-    "img": "https://images.pluto.tv/channels/67b4b4a21a5ca760802d25fd/colorLogoPNG_1747394750060.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Cheers [Geo-blocked]",
-    "type": "À Binge-Watch",
-    "url": "https://jmp2.uk/plu-65cce14060eb870008dbd003.m3u8",
-    "img": "https://images.pluto.tv/channels/65cce14060eb870008dbd003/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-691b334a1308fa77bb056b0e.m3u8",
+    "img": "https://images.pluto.tv/channels/691b334a1308fa77bb056b0e/colorLogoPNG_1771231492608.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -2313,48 +2304,30 @@
     "active": true
   },
   {
-    "name": "Dawson [Geo-blocked]",
+    "name": "Pluto TV 90's Classics [Geo-blocked]",
     "type": "À Binge-Watch",
-    "url": "https://jmp2.uk/plu-69aadc5551df9542f2521e1a.m3u8",
-    "img": "https://images.pluto.tv/channels/69aadc5551df9542f2521e1a/colorLogoPNG_1775658935857.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "La Moderna [Geo-blocked]",
-    "type": "À Binge-Watch",
-    "url": "https://jmp2.uk/plu-691b334a1308fa77bb056b0e.m3u8",
-    "img": "https://images.pluto.tv/channels/691b334a1308fa77bb056b0e/colorLogoPNG_1771231492608.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Mission Impossible [Geo-blocked]",
-    "type": "À Binge-Watch",
-    "url": "https://jmp2.uk/plu-6671b21ffc3a46000857fe75.m3u8",
-    "img": "https://images.pluto.tv/channels/6671b21ffc3a46000857fe75/colorLogoPNG.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Pluto TV  Teen",
-    "type": "Kids",
-    "url": "https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNTY2ODQ5LCJpYXQiOjE3OTE0ODA0NDksImp0aSI6IjFkMWU1NzMxLWFiZGYtNDU5Ny05MjM1LWI0NjJhYTdhN2Q0MCJ9.H1htg-inLikwntxlPYbwtOATcxN6OH24jT1WmPVGWxw",
-    "img": "https://images.pluto.tv/channels/5f8eb99ff17815000784a3b0/colorLogoPNG_1750752089382.png",
+    "url": "https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8",
+    "img": "https://images.pluto.tv/channels/66b4990746762a00084c2f78/colorLogoPNG.png",
     "quality": "Unknown",
     "language": "en",
     "active": true
   },
   {
-    "name": "Pluto TV Super Kids [Geo-blocked]",
-    "type": "Kids",
-    "url": "https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8",
-    "img": "https://images.pluto.tv/channels/652557d93fd33c000802f995/colorLogoPNG_1733440546104.png",
+    "name": "Pluto TV Séries Fantastiques [Geo-blocked]",
+    "type": "À Binge-Watch",
+    "url": "https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8",
+    "img": "https://images.pluto.tv/channels/625ec7a1c853fd00073b38fd/colorLogoPNG_1775048560569.png",
     "quality": "Unknown",
     "language": "en",
+    "active": true
+  },
+  {
+    "name": "Tout le monde déteste Chris [Geo-blocked]",
+    "type": "À Binge-Watch",
+    "url": "https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8",
+    "img": "https://images.pluto.tv/channels/67b4b4a21a5ca760802d25fd/colorLogoPNG_1747394750060.png",
+    "quality": "Unknown",
+    "language": "unknown",
     "active": true
   },
   {
@@ -2367,21 +2340,21 @@
     "active": true
   },
   {
-    "name": "Tortues Ninja TV",
-    "type": "Kids",
-    "url": "https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNTY2ODQ5LCJpYXQiOjE3OTE0ODA0NDksImp0aSI6IjFkMWU1NzMxLWFiZGYtNDU5Ny05MjM1LWI0NjJhYTdhN2Q0MCJ9.H1htg-inLikwntxlPYbwtOATcxN6OH24jT1WmPVGWxw",
-    "img": "https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png",
-    "quality": "Unknown",
-    "language": "en",
-    "active": true
-  },
-  {
     "name": "Les Schtroumpfs [Geo-blocked]",
     "type": "Kids",
     "url": "https://jmp2.uk/plu-68b16d2282862c1f067dc763.m3u8",
     "img": "https://images.pluto.tv/channels/68b16d2282862c1f067dc763/colorLogoPNG_1760383270761.png",
     "quality": "Unknown",
     "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "Pluto TV Junior [Geo-blocked]",
+    "type": "Kids",
+    "url": "https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8",
+    "img": "https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/colorLogoPNG_1748328452590.png",
+    "quality": "Unknown",
+    "language": "en",
     "active": true
   },
   {
@@ -2403,6 +2376,24 @@
     "active": true
   },
   {
+    "name": "iCarly TV",
+    "type": "Kids",
+    "url": "https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5f8ecc7aa44d9c00081fca29/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNjUzMjQ5LCJpYXQiOjE3OTE1NjY4NDksImp0aSI6IjdhYmYyYmM4LWE2ZGQtNDU5ZS1hODQyLTQwNDY2NjEyNDhmNiJ9.8-m6BINujjGrvHR--ShFRSksJjr4LdLwl3cpPXPfmMI",
+    "img": "https://images.pluto.tv/channels/5f8ecc7aa44d9c00081fca29/colorLogoPNG.png",
+    "quality": "Unknown",
+    "language": "en",
+    "active": true
+  },
+  {
+    "name": "Tortues Ninja TV",
+    "type": "Kids",
+    "url": "https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNjUzMjQ5LCJpYXQiOjE3OTE1NjY4NDksImp0aSI6IjdhYmYyYmM4LWE2ZGQtNDU5ZS1hODQyLTQwNDY2NjEyNDhmNiJ9.8-m6BINujjGrvHR--ShFRSksJjr4LdLwl3cpPXPfmMI",
+    "img": "https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png",
+    "quality": "Unknown",
+    "language": "en",
+    "active": true
+  },
+  {
     "name": "Pluto TV Kids Classics [Geo-blocked]",
     "type": "Kids",
     "url": "https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8",
@@ -2412,21 +2403,30 @@
     "active": true
   },
   {
-    "name": "Pluto TV Junior [Geo-blocked]",
+    "name": "Pluto TV  Teen",
     "type": "Kids",
-    "url": "https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8",
-    "img": "https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/colorLogoPNG_1748328452590.png",
+    "url": "https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNjUzMjQ5LCJpYXQiOjE3OTE1NjY4NDksImp0aSI6IjdhYmYyYmM4LWE2ZGQtNDU5ZS1hODQyLTQwNDY2NjEyNDhmNiJ9.8-m6BINujjGrvHR--ShFRSksJjr4LdLwl3cpPXPfmMI",
+    "img": "https://images.pluto.tv/channels/5f8eb99ff17815000784a3b0/colorLogoPNG_1750752089382.png",
     "quality": "Unknown",
     "language": "en",
     "active": true
   },
   {
-    "name": "iCarly TV",
+    "name": "Pluto TV Super Kids [Geo-blocked]",
     "type": "Kids",
-    "url": "https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5f8ecc7aa44d9c00081fca29/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNTY2ODQ5LCJpYXQiOjE3OTE0ODA0NDksImp0aSI6IjFkMWU1NzMxLWFiZGYtNDU5Ny05MjM1LWI0NjJhYTdhN2Q0MCJ9.H1htg-inLikwntxlPYbwtOATcxN6OH24jT1WmPVGWxw",
-    "img": "https://images.pluto.tv/channels/5f8ecc7aa44d9c00081fca29/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8",
+    "img": "https://images.pluto.tv/channels/652557d93fd33c000802f995/colorLogoPNG_1733440546104.png",
     "quality": "Unknown",
     "language": "en",
+    "active": true
+  },
+  {
+    "name": "Daria",
+    "type": "Animation",
+    "url": "https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/6683b680efa2a10008e8a393/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNjUzMjQ5LCJpYXQiOjE3OTE1NjY4NDksImp0aSI6IjdhYmYyYmM4LWE2ZGQtNDU5ZS1hODQyLTQwNDY2NjEyNDhmNiJ9.8-m6BINujjGrvHR--ShFRSksJjr4LdLwl3cpPXPfmMI",
+    "img": "https://images.pluto.tv/channels/6683b680efa2a10008e8a393/colorLogoPNG.png",
+    "quality": "Unknown",
+    "language": "unknown",
     "active": true
   },
   {
@@ -2434,15 +2434,6 @@
     "type": "Animation",
     "url": "https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8",
     "img": "https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/colorLogoPNG-1745586573083.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Daria",
-    "type": "Animation",
-    "url": "https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/6683b680efa2a10008e8a393/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNTY2ODQ5LCJpYXQiOjE3OTE0ODA0NDksImp0aSI6IjFkMWU1NzMxLWFiZGYtNDU5Ny05MjM1LWI0NjJhYTdhN2Q0MCJ9.H1htg-inLikwntxlPYbwtOATcxN6OH24jT1WmPVGWxw",
-    "img": "https://images.pluto.tv/channels/6683b680efa2a10008e8a393/colorLogoPNG.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -2457,21 +2448,12 @@
     "active": true
   },
   {
-    "name": "One Piece",
+    "name": "Doraemon [Geo-blocked]",
     "type": "Animation",
-    "url": "https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/6380c94947c72b0007ee9a13/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNTY2ODQ5LCJpYXQiOjE3OTE0ODA0NDksImp0aSI6IjFkMWU1NzMxLWFiZGYtNDU5Ny05MjM1LWI0NjJhYTdhN2Q0MCJ9.H1htg-inLikwntxlPYbwtOATcxN6OH24jT1WmPVGWxw",
-    "img": "https://images.pluto.tv/channels/6380c94947c72b0007ee9a13/colorLogoPNG_1765795729899.png",
+    "url": "https://jmp2.uk/plu-68b17414c23bb80b3c1d5bb5.m3u8",
+    "img": "https://images.pluto.tv/channels/68b17414c23bb80b3c1d5bb5/colorLogoPNG_1760606450398.png",
     "quality": "Unknown",
     "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Pluto TV Retro Toons [Geo-blocked]",
-    "type": "Animation",
-    "url": "https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8",
-    "img": "https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png",
-    "quality": "Unknown",
-    "language": "en",
     "active": true
   },
   {
@@ -2484,10 +2466,10 @@
     "active": true
   },
   {
-    "name": "Doraemon [Geo-blocked]",
+    "name": "One Piece",
     "type": "Animation",
-    "url": "https://jmp2.uk/plu-68b17414c23bb80b3c1d5bb5.m3u8",
-    "img": "https://images.pluto.tv/channels/68b17414c23bb80b3c1d5bb5/colorLogoPNG_1760606450398.png",
+    "url": "https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/6380c94947c72b0007ee9a13/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNjUzMjQ5LCJpYXQiOjE3OTE1NjY4NDksImp0aSI6IjdhYmYyYmM4LWE2ZGQtNDU5ZS1hODQyLTQwNDY2NjEyNDhmNiJ9.8-m6BINujjGrvHR--ShFRSksJjr4LdLwl3cpPXPfmMI",
+    "img": "https://images.pluto.tv/channels/6380c94947c72b0007ee9a13/colorLogoPNG_1765795729899.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -2511,19 +2493,19 @@
     "active": true
   },
   {
+    "name": "Pluto TV Retro Toons [Geo-blocked]",
+    "type": "Animation",
+    "url": "https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8",
+    "img": "https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png",
+    "quality": "Unknown",
+    "language": "en",
+    "active": true
+  },
+  {
     "name": "Turbo [Geo-blocked]",
     "type": "Emissions cultes",
     "url": "https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8",
     "img": "https://images.pluto.tv/channels/66f55c3955567d0008ef9b68/colorLogoPNG.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Ink Master [Geo-blocked]",
-    "type": "TV Réalité",
-    "url": "https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8",
-    "img": "https://images.pluto.tv/channels/682318568e6c0f2f6c6e0038/colorLogoPNG_1784122185248.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -2538,33 +2520,6 @@
     "active": true
   },
   {
-    "name": "Pluto TV Téléréalité France [Geo-blocked]",
-    "type": "TV Réalité",
-    "url": "https://jmp2.uk/plu-699865ccac36b147e74619fe.m3u8",
-    "img": "https://images.pluto.tv/channels/699865ccac36b147e74619fe/colorLogoPNG_1779788356699.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Teen Mom",
-    "type": "TV Réalité",
-    "url": "https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/62f3f05505e621000783df2f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNTY2ODQ5LCJpYXQiOjE3OTE0ODA0NDksImp0aSI6IjFkMWU1NzMxLWFiZGYtNDU5Ny05MjM1LWI0NjJhYTdhN2Q0MCJ9.H1htg-inLikwntxlPYbwtOATcxN6OH24jT1WmPVGWxw",
-    "img": "https://images.pluto.tv/channels/62f3f05505e621000783df2f/colorLogoPNG.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "CATFISH TV",
-    "type": "TV Réalité",
-    "url": "https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5f8eb66537867f0007146953/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNTY2ODQ5LCJpYXQiOjE3OTE0ODA0NDksImp0aSI6IjFkMWU1NzMxLWFiZGYtNDU5Ny05MjM1LWI0NjJhYTdhN2Q0MCJ9.H1htg-inLikwntxlPYbwtOATcxN6OH24jT1WmPVGWxw",
-    "img": "https://images.pluto.tv/channels/5f8eb66537867f0007146953/colorLogoPNG.png",
-    "quality": "Unknown",
-    "language": "en",
-    "active": true
-  },
-  {
     "name": "Les Marseillais [Geo-blocked]",
     "type": "TV Réalité",
     "url": "https://jmp2.uk/plu-66f55d565e4a6e0008c2b9d2.m3u8",
@@ -2574,57 +2529,57 @@
     "active": true
   },
   {
-    "name": "Instant Saga [Geo-blocked]",
-    "type": "100% Français",
-    "url": "https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8",
-    "img": "https://images.pluto.tv/channels/60549e98061b5f000776866a/colorLogoPNG.png",
+    "name": "Teen Mom",
+    "type": "TV Réalité",
+    "url": "https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/62f3f05505e621000783df2f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNjUzMjQ5LCJpYXQiOjE3OTE1NjY4NDksImp0aSI6IjdhYmYyYmM4LWE2ZGQtNDU5ZS1hODQyLTQwNDY2NjEyNDhmNiJ9.8-m6BINujjGrvHR--ShFRSksJjr4LdLwl3cpPXPfmMI",
+    "img": "https://images.pluto.tv/channels/62f3f05505e621000783df2f/colorLogoPNG.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
   },
   {
-    "name": "Les Années fac [Geo-blocked]",
-    "type": "100% Français",
-    "url": "https://jmp2.uk/plu-60afae68a7fc50000737186d.m3u8",
-    "img": "https://images.pluto.tv/channels/60afae68a7fc50000737186d/colorLogoPNG.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Louis La Brocante [Geo-blocked]",
-    "type": "100% Français",
-    "url": "https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8",
-    "img": "https://images.pluto.tv/channels/5f8ed6d569d2d4000864a976/colorLogoPNG.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Pluto TV French Collection [Geo-blocked]",
-    "type": "100% Français",
-    "url": "https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8",
-    "img": "https://images.pluto.tv/channels/62f3e0522443200008c567d7/colorLogoPNG.png",
+    "name": "CATFISH TV",
+    "type": "TV Réalité",
+    "url": "https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5f8eb66537867f0007146953/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyYTcxZjE0LTU5YzEtNGEyMi05ODA1LTA2ZGEzZTdiNjJkMiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNjUzMjQ5LCJpYXQiOjE3OTE1NjY4NDksImp0aSI6IjdhYmYyYmM4LWE2ZGQtNDU5ZS1hODQyLTQwNDY2NjEyNDhmNiJ9.8-m6BINujjGrvHR--ShFRSksJjr4LdLwl3cpPXPfmMI",
+    "img": "https://images.pluto.tv/channels/5f8eb66537867f0007146953/colorLogoPNG.png",
     "quality": "Unknown",
     "language": "en",
     "active": true
   },
   {
-    "name": "une fille\" tvg-logo=\"https://images.pluto.tv/channels/62f3ece7b09fd6000783bfb9/colorLogoPNG.png\" group-title=\"100% Français\",Un gars une fille [Geo-blocked]",
-    "type": "100% Français",
-    "url": "https://jmp2.uk/plu-62f3ece7b09fd6000783bfb9.m3u8",
-    "img": "https://images.pluto.tv/channels/62f3ece7b09fd6000783bfb9/colorLogoPNG.png",
+    "name": "Ink Master [Geo-blocked]",
+    "type": "TV Réalité",
+    "url": "https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8",
+    "img": "https://images.pluto.tv/channels/682318568e6c0f2f6c6e0038/colorLogoPNG_1784122185248.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "Pluto TV Téléréalité France [Geo-blocked]",
+    "type": "TV Réalité",
+    "url": "https://jmp2.uk/plu-699865ccac36b147e74619fe.m3u8",
+    "img": "https://images.pluto.tv/channels/699865ccac36b147e74619fe/colorLogoPNG_1779788356699.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "CBS News 24/7 [Geo-blocked]",
+    "type": "News",
+    "url": "https://jmp2.uk/plu-6231ec93779a9d00079ba8e2.m3u8",
+    "img": "https://images.pluto.tv/channels/6231ec93779a9d00079ba8e2/colorLogoPNG.png",
     "quality": "Unknown",
     "language": "en",
     "active": true
   },
   {
-    "name": "Cut [Geo-blocked]",
-    "type": "100% Français",
-    "url": "https://jmp2.uk/plu-691b351d427d68a118fdda13.m3u8",
-    "img": "https://images.pluto.tv/channels/691b351d427d68a118fdda13/colorLogoPNG_1771923741719.png",
+    "name": "Euronews [Geo-blocked]",
+    "type": "News",
+    "url": "https://jmp2.uk/plu-60d35bcaf1ff4a00078af0a6.m3u8",
+    "img": "https://images.pluto.tv/channels/60d35bcaf1ff4a00078af0a6/colorLogoPNG.png",
     "quality": "Unknown",
-    "language": "unknown",
+    "language": "en",
     "active": true
   },
   {
@@ -2646,28 +2601,10 @@
     "active": true
   },
   {
-    "name": "Les vacances de l'amour [Geo-blocked]",
+    "name": "Les Années fac [Geo-blocked]",
     "type": "100% Français",
-    "url": "https://jmp2.uk/plu-691b33ae8a64bd1811e923f2.m3u8",
-    "img": "https://images.pluto.tv/channels/691b33ae8a64bd1811e923f2/colorLogoPNG_1771923699657.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Nina [Geo-blocked]",
-    "type": "100% Français",
-    "url": "https://jmp2.uk/plu-692ec6d82329c10c5166f436.m3u8",
-    "img": "https://images.pluto.tv/channels/692ec6d82329c10c5166f436/colorLogoPNG_1771598181775.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Nos années pensions [Geo-blocked]",
-    "type": "100% Français",
-    "url": "https://jmp2.uk/plu-691b3505e70325a3b15b12f0.m3u8",
-    "img": "https://images.pluto.tv/channels/691b3505e70325a3b15b12f0/colorLogoPNG_1771923830629.png",
+    "url": "https://jmp2.uk/plu-60afae68a7fc50000737186d.m3u8",
+    "img": "https://images.pluto.tv/channels/60afae68a7fc50000737186d/colorLogoPNG.png",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -2682,19 +2619,73 @@
     "active": true
   },
   {
-    "name": "CBS News 24/7 [Geo-blocked]",
-    "type": "News",
-    "url": "https://jmp2.uk/plu-6231ec93779a9d00079ba8e2.m3u8",
-    "img": "https://images.pluto.tv/channels/6231ec93779a9d00079ba8e2/colorLogoPNG.png",
+    "name": "Nina [Geo-blocked]",
+    "type": "100% Français",
+    "url": "https://jmp2.uk/plu-692ec6d82329c10c5166f436.m3u8",
+    "img": "https://images.pluto.tv/channels/692ec6d82329c10c5166f436/colorLogoPNG_1771598181775.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "Louis La Brocante [Geo-blocked]",
+    "type": "100% Français",
+    "url": "https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8",
+    "img": "https://images.pluto.tv/channels/5f8ed6d569d2d4000864a976/colorLogoPNG.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "Cut [Geo-blocked]",
+    "type": "100% Français",
+    "url": "https://jmp2.uk/plu-691b351d427d68a118fdda13.m3u8",
+    "img": "https://images.pluto.tv/channels/691b351d427d68a118fdda13/colorLogoPNG_1771923741719.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "Nos années pensions [Geo-blocked]",
+    "type": "100% Français",
+    "url": "https://jmp2.uk/plu-691b3505e70325a3b15b12f0.m3u8",
+    "img": "https://images.pluto.tv/channels/691b3505e70325a3b15b12f0/colorLogoPNG_1771923830629.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "Instant Saga [Geo-blocked]",
+    "type": "100% Français",
+    "url": "https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8",
+    "img": "https://images.pluto.tv/channels/60549e98061b5f000776866a/colorLogoPNG.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "une fille\" tvg-logo=\"https://images.pluto.tv/channels/62f3ece7b09fd6000783bfb9/colorLogoPNG.png\" group-title=\"100% Français\",Un gars une fille [Geo-blocked]",
+    "type": "100% Français",
+    "url": "https://jmp2.uk/plu-62f3ece7b09fd6000783bfb9.m3u8",
+    "img": "https://images.pluto.tv/channels/62f3ece7b09fd6000783bfb9/colorLogoPNG.png",
     "quality": "Unknown",
     "language": "en",
     "active": true
   },
   {
-    "name": "Euronews [Geo-blocked]",
-    "type": "News",
-    "url": "https://jmp2.uk/plu-60d35bcaf1ff4a00078af0a6.m3u8",
-    "img": "https://images.pluto.tv/channels/60d35bcaf1ff4a00078af0a6/colorLogoPNG.png",
+    "name": "Les vacances de l'amour [Geo-blocked]",
+    "type": "100% Français",
+    "url": "https://jmp2.uk/plu-691b33ae8a64bd1811e923f2.m3u8",
+    "img": "https://images.pluto.tv/channels/691b33ae8a64bd1811e923f2/colorLogoPNG_1771923699657.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "Pluto TV French Collection [Geo-blocked]",
+    "type": "100% Français",
+    "url": "https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8",
+    "img": "https://images.pluto.tv/channels/62f3e0522443200008c567d7/colorLogoPNG.png",
     "quality": "Unknown",
     "language": "en",
     "active": true
@@ -2727,21 +2718,21 @@
     "active": true
   },
   {
+    "name": "UFC [Geo-blocked]",
+    "type": "Sports & Auto",
+    "url": "https://jmp2.uk/plu-67921b78b83355184c667770.m3u8",
+    "img": "https://images.pluto.tv/channels/67921b78b83355184c667770/colorLogoPNG.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
     "name": "WPT [Geo-blocked]",
     "type": "Sports & Auto",
     "url": "https://jmp2.uk/plu-5f8ecfb9db6c180007a6d1b0.m3u8",
     "img": "https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png",
     "quality": "Unknown",
     "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Pluto TV Snooker 900 [Geo-blocked]",
-    "type": "Sports & Auto",
-    "url": "https://jmp2.uk/plu-66fd35e44ca31f0008060b77.m3u8",
-    "img": "https://images.pluto.tv/channels/66fd35e44ca31f0008060b77/colorLogoPNG_1762954633607.png",
-    "quality": "Unknown",
-    "language": "en",
     "active": true
   },
   {
@@ -2754,64 +2745,10 @@
     "active": true
   },
   {
-    "name": "UFC [Geo-blocked]",
+    "name": "Pluto TV Snooker 900 [Geo-blocked]",
     "type": "Sports & Auto",
-    "url": "https://jmp2.uk/plu-67921b78b83355184c667770.m3u8",
-    "img": "https://images.pluto.tv/channels/67921b78b83355184c667770/colorLogoPNG.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Dossiers FBI [Geo-blocked]",
-    "type": "Crime & Mystère",
-    "url": "https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8",
-    "img": "https://images.pluto.tv/channels/5f8edad922b10b000753bc37/colorLogoPNG-1608307486966.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Investigation by Pluto TV [Geo-blocked]",
-    "type": "Crime & Mystère",
-    "url": "https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8",
-    "img": "https://images.pluto.tv/channels/6683cd2fca74680008772545/colorLogoPNG_1747399523793.png",
-    "quality": "Unknown",
-    "language": "en",
-    "active": true
-  },
-  {
-    "name": "Les Nouveaux Detectives [Geo-blocked]",
-    "type": "Crime & Mystère",
-    "url": "https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8",
-    "img": "https://images.pluto.tv/channels/5f8edb6df1ebb800072edf10/colorLogoPNG.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Most Haunted [Geo-blocked]",
-    "type": "Crime & Mystère",
-    "url": "https://jmp2.uk/plu-66d722d31878f200081c2c64.m3u8",
-    "img": "https://images.pluto.tv/channels/66d722d31878f200081c2c64/colorLogoPNG.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Pluto TV Paranormal [Geo-blocked]",
-    "type": "Crime & Mystère",
-    "url": "https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8",
-    "img": "https://images.pluto.tv/channels/5f8ed9461b35690007a0bc3a/colorLogoPNG.png",
-    "quality": "Unknown",
-    "language": "en",
-    "active": true
-  },
-  {
-    "name": "True Crime by Pluto TV [Geo-blocked]",
-    "type": "Crime & Mystère",
-    "url": "https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8",
-    "img": "https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-66fd35e44ca31f0008060b77.m3u8",
+    "img": "https://images.pluto.tv/channels/66fd35e44ca31f0008060b77/colorLogoPNG_1762954633607.png",
     "quality": "Unknown",
     "language": "en",
     "active": true
@@ -2835,30 +2772,57 @@
     "active": true
   },
   {
-    "name": "Pluto TV Animaux [Geo-blocked]",
-    "type": "Documentaire",
-    "url": "https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8",
-    "img": "https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png",
-    "quality": "Unknown",
-    "language": "en",
-    "active": true
-  },
-  {
-    "name": "Pluto TV Histoire [Geo-blocked]",
-    "type": "Documentaire",
-    "url": "https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8",
-    "img": "https://images.pluto.tv/channels/611e771e2f5f180007002224/colorLogoPNG.png",
-    "quality": "Unknown",
-    "language": "en",
-    "active": true
-  },
-  {
-    "name": "INA 70 [Geo-blocked]",
-    "type": "Documentaire",
-    "url": "https://jmp2.uk/plu-639b54404cfdf7000729b3c1.m3u8",
-    "img": "https://images.pluto.tv/channels/639b54404cfdf7000729b3c1/colorLogoPNG.png",
+    "name": "Most Haunted [Geo-blocked]",
+    "type": "Crime & Mystère",
+    "url": "https://jmp2.uk/plu-66d722d31878f200081c2c64.m3u8",
+    "img": "https://images.pluto.tv/channels/66d722d31878f200081c2c64/colorLogoPNG.png",
     "quality": "Unknown",
     "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "True Crime by Pluto TV [Geo-blocked]",
+    "type": "Crime & Mystère",
+    "url": "https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8",
+    "img": "https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png",
+    "quality": "Unknown",
+    "language": "en",
+    "active": true
+  },
+  {
+    "name": "Les Nouveaux Detectives [Geo-blocked]",
+    "type": "Crime & Mystère",
+    "url": "https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8",
+    "img": "https://images.pluto.tv/channels/5f8edb6df1ebb800072edf10/colorLogoPNG.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "Pluto TV Paranormal [Geo-blocked]",
+    "type": "Crime & Mystère",
+    "url": "https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8",
+    "img": "https://images.pluto.tv/channels/5f8ed9461b35690007a0bc3a/colorLogoPNG.png",
+    "quality": "Unknown",
+    "language": "en",
+    "active": true
+  },
+  {
+    "name": "Dossiers FBI [Geo-blocked]",
+    "type": "Crime & Mystère",
+    "url": "https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8",
+    "img": "https://images.pluto.tv/channels/5f8edad922b10b000753bc37/colorLogoPNG-1608307486966.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "Investigation by Pluto TV [Geo-blocked]",
+    "type": "Crime & Mystère",
+    "url": "https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8",
+    "img": "https://images.pluto.tv/channels/6683cd2fca74680008772545/colorLogoPNG_1747399523793.png",
+    "quality": "Unknown",
+    "language": "en",
     "active": true
   },
   {
@@ -2871,10 +2835,37 @@
     "active": true
   },
   {
+    "name": "INA 70 [Geo-blocked]",
+    "type": "Documentaire",
+    "url": "https://jmp2.uk/plu-639b54404cfdf7000729b3c1.m3u8",
+    "img": "https://images.pluto.tv/channels/639b54404cfdf7000729b3c1/colorLogoPNG.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "Pluto TV Animaux [Geo-blocked]",
+    "type": "Documentaire",
+    "url": "https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8",
+    "img": "https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png",
+    "quality": "Unknown",
+    "language": "en",
+    "active": true
+  },
+  {
     "name": "Pluto TV Aventure [Geo-blocked]",
     "type": "Documentaire",
     "url": "https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8",
     "img": "https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/colorLogoPNG.png",
+    "quality": "Unknown",
+    "language": "en",
+    "active": true
+  },
+  {
+    "name": "Pluto TV Histoire [Geo-blocked]",
+    "type": "Documentaire",
+    "url": "https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8",
+    "img": "https://images.pluto.tv/channels/611e771e2f5f180007002224/colorLogoPNG.png",
     "quality": "Unknown",
     "language": "en",
     "active": true
@@ -2916,15 +2907,6 @@
     "active": true
   },
   {
-    "name": "That's 90s00s [Geo-blocked]",
-    "type": "Nouveau sur Pluto TV",
-    "url": "https://jmp2.uk/plu-667d38a5ca74680008696392.m3u8",
-    "img": "https://images.pluto.tv/channels/667d38a5ca74680008696392/colorLogoPNG_1790760509250.png",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
     "name": "Soda [Geo-blocked]",
     "type": "Nouveau sur Pluto TV",
     "url": "https://jmp2.uk/plu-6a6a02ff1b1c90d8bf955701.m3u8",
@@ -2934,10 +2916,28 @@
     "active": true
   },
   {
+    "name": "That's 90s00s [Geo-blocked]",
+    "type": "Nouveau sur Pluto TV",
+    "url": "https://jmp2.uk/plu-667d38a5ca74680008696392.m3u8",
+    "img": "https://images.pluto.tv/channels/667d38a5ca74680008696392/colorLogoPNG_1790760509250.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
     "name": "That's Rock [Geo-blocked]",
     "type": "Nouveau sur Pluto TV",
     "url": "https://jmp2.uk/plu-667d38df64aca60008eab7c6.m3u8",
     "img": "https://images.pluto.tv/channels/667d38df64aca60008eab7c6/colorLogoPNG_1790238529013.png",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "Adjugé vendu !",
+    "type": "FRANCE",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64bab8ba5dc1660008969b5a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06ff28-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5c583725-776e-440c-a02f-17dca14750d3&checkedby:iptvcat.com",
+    "img": "",
     "quality": "Unknown",
     "language": "unknown",
     "active": true
@@ -2961,24 +2961,6 @@
     "active": true
   },
   {
-    "name": "BFM Grands Reportages (1080p) [Geo-blocked]",
-    "type": "FRANCE",
-    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END&checkedby:iptvcat.com",
-    "img": "",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Adjugé vendu !",
-    "type": "FRANCE",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64bab8ba5dc1660008969b5a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06ff28-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5c583725-776e-440c-a02f-17dca14750d3&checkedby:iptvcat.com",
-    "img": "",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
     "name": "Coeur Océan",
     "type": "FRANCE",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3dd1c2f29ce0007e18596/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06b102-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0031c60f-4d94-4726-b1ae-5054583e82c7&checkedby:iptvcat.com",
@@ -2988,12 +2970,12 @@
     "active": true
   },
   {
-    "name": "20 Minutes TV",
+    "name": "BFM Grands Reportages (1080p) [Geo-blocked]",
     "type": "FRANCE",
-    "url": "https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8?checkedby:iptvcat.com",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/320px-20_Minutes_TV_IDF_logo_%282023%29.png",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END&checkedby:iptvcat.com",
+    "img": "",
     "quality": "Unknown",
-    "language": "en",
+    "language": "unknown",
     "active": true
   },
   {
@@ -3003,6 +2985,15 @@
     "img": "",
     "quality": "Unknown",
     "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "Brionnais TV (720p)",
+    "type": "FRANCE",
+    "url": "https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8?checkedby:iptvcat.com",
+    "img": "",
+    "quality": "Unknown",
+    "language": "en",
     "active": true
   },
   {
@@ -3024,28 +3015,10 @@
     "active": true
   },
   {
-    "name": "Un gars une fille",
+    "name": "20 Minutes TV",
     "type": "FRANCE",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3ece7b09fd6000783bfb9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06d810-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d4806e73-8205-4c2d-96f4-b4107c552c9a&checkedby:iptvcat.com",
-    "img": "",
-    "quality": "Unknown",
-    "language": "unknown",
-    "active": true
-  },
-  {
-    "name": "Brionnais TV (720p)",
-    "type": "FRANCE",
-    "url": "https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8?checkedby:iptvcat.com",
-    "img": "",
-    "quality": "Unknown",
-    "language": "en",
-    "active": true
-  },
-  {
-    "name": "Rakuten TV Films Famille",
-    "type": "FRANCE",
-    "url": "https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8?checkedby:iptvcat.com",
-    "img": "",
+    "url": "https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8?checkedby:iptvcat.com",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/320px-20_Minutes_TV_IDF_logo_%282023%29.png",
     "quality": "Unknown",
     "language": "en",
     "active": true
@@ -3069,9 +3042,27 @@
     "active": true
   },
   {
-    "name": "Rakuten TV Top Films (720p)",
+    "name": "Un gars une fille",
     "type": "FRANCE",
-    "url": "https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8?checkedby:iptvcat.com",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3ece7b09fd6000783bfb9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06d810-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d4806e73-8205-4c2d-96f4-b4107c552c9a&checkedby:iptvcat.com",
+    "img": "",
+    "quality": "Unknown",
+    "language": "unknown",
+    "active": true
+  },
+  {
+    "name": "Rakuten TV Films Comédie (720p)",
+    "type": "FRANCE",
+    "url": "https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8?checkedby:iptvcat.com",
+    "img": "",
+    "quality": "Unknown",
+    "language": "en",
+    "active": true
+  },
+  {
+    "name": "Rakuten TV Films Famille",
+    "type": "FRANCE",
+    "url": "https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8?checkedby:iptvcat.com",
     "img": "",
     "quality": "Unknown",
     "language": "en",
@@ -3087,18 +3078,18 @@
     "active": true
   },
   {
-    "name": "Rakuten TV Films Comédie (720p)",
+    "name": "Rakuten TV Séries Crime (720p)",
     "type": "FRANCE",
-    "url": "https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8?checkedby:iptvcat.com",
+    "url": "https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8?checkedby:iptvcat.com",
     "img": "",
     "quality": "Unknown",
     "language": "en",
     "active": true
   },
   {
-    "name": "Rakuten TV Séries Crime (720p)",
+    "name": "Rakuten TV Top Films (720p)",
     "type": "FRANCE",
-    "url": "https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8?checkedby:iptvcat.com",
+    "url": "https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8?checkedby:iptvcat.com",
     "img": "",
     "quality": "Unknown",
     "language": "en",
